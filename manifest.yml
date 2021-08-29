@@ -1,0 +1,7 @@
+applications:
+ - name: react-flask-boilerplate
+   buildpack: python_buildpack
+   memory: 256M
+   command: python server/server.py
+   host: react-flask-boilerplate
+   domain: mybluemix.net

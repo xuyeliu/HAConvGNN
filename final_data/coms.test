@@ -1,0 +1,2856 @@
+3448, <s> we make some dummy variables for Title and add them to the dataframe </s>
+28220, <s> making feature matrices for modelling </s>
+29402, <s> CHECK FLOOR AND MAX FLOOR </s>
+4319, <s> Ticket holders with a zero fare </s>
+16242, <s> compare our models through visualization </s>
+25823, <s> Truncated SVD on continuous variables </s>
+28605, <s> YearRemodAdd </s>
+1387, <s> Evaluating the model </s>
+15914, <s> Surname </s>
+22081, <s> Prepare our Data </s>
+37507, <s> add Learning Rate annealing </s>
+8335, <s> This is normal distribution As a custom let s have a look at correlation matrix </s>
+4425, <s> Way better check the skewness of data </s>
+19902, <s> Top 10 Sales by Shop and item Combination </s>
+10259, <s> Converting categorical values to numeric values </s>
+38514, <s> Ngram exploration </s>
+19923, <s> Mass Histograms </s>
+8826, <s> Feature Engineering Cabin Deck </s>
+6914, <s> PIPELINE </s>
+15145, <s> One Hot Encoding </s>
+34682, <s> Looking at the test set </s>
+8871, <s> Removing Irrelevant or High Correlated Columns </s>
+13551, <s> Crossing Embarked by PClass and Survived </s>
+24834, <s> use KNN </s>
+7410, <s> Neighborhood Besides the zoning classfication neighborhood also makes a difference Houses located at Northridge Heights NridgHt have higher sale prices than those in other areas generally but the variance is large The difference between median price of MeadowV neighborhood with the lowest house prices and that of NridgHt is over </s>
+37029, <s> let s analyze the price </s>
+38086, <s> For one hot encoding we use the onehotencoder from sklearn preprocessing library </s>
+20237, <s> Cabin </s>
+8934, <s> Total Square Footage </s>
+4802, <s> We are dropping the Id feature since it would not add any useful information to the model </s>
+31045, <s> Duplicate Sentence </s>
+11483, <s> BsmtFinType2 BsmtExposure BsmtFinType1 BsmtCond BsmtQual BsmtFullBath BsmtHalfBath TotalBsmtSF BsmtFinSF1 BsmtFinSF2 BsmtUnfSF </s>
+29334, <s> with the PCA variables </s>
+20723, <s> BldgType column </s>
+14779, <s> SibSp </s>
+25020, <s> Beautiful </s>
+32685, <s> Now we have two folders containing each train and test images </s>
+36056, <s> Count Monthly Mean </s>
+42821, <s> Matcher and Bipartite Matching Loss </s>
+21404, <s> it s time to separate into train and test database </s>
+31661, <s> Observation </s>
+34092, <s> The most interesting question regarding manager id is how to derive a manager skill feature </s>
+15873, <s> Number of estimators and max depth </s>
+1909, <s> Univariate Analysis </s>
+1938, <s> Kitchen Quality </s>
+42573, <s> Kaggle returns the score rounded to 5 digits meaning that the contribution of a single value to the log loss lies in the range of </s>
+26850, <s> Words Counts Insights </s>
+16988, <s> Gradient Boosting classifier </s>
+16393, <s> Practicing Random Stuff </s>
+876, <s> Data wrangling </s>
+18134, <s> StackingCVRegressor extends the standard stacking algorithm implemented as StackingRegressor using out of fold predictions to prepare the input data for the level 2 regressor </s>
+37459, <s> Remove Punctuation </s>
+10755, <s> We can sort these people by Fare in descending order </s>
+28822, <s> Misc </s>
+6813, <s> Ensembling is the science of combining classifiers to improve the accuracy of a models Moreover it diminushes the variance of our model making it more reliable You can start learning about ensembling here is better than one ensembling models 611ee4fa9bd8 </s>
+7634, <s> Correlation of predictions </s>
+37041, <s> Certain parameters were chosen for the Kaggle kernel </s>
+5566, <s> claen our data from outliers </s>
+14915, <s> Features Generation </s>
+41417, <s> Feature scaling </s>
+36390, <s> Example the 3 E and G values for the cat92 be replaced by NaN during encoding </s>
+2322, <s> Fitting a Logistic Regression </s>
+8825, <s> from both figures I can assume that if a passenger have family onboard the survival rate increase to approximately 50 </s>
+19866, <s> There we go with remaining dataset after eliminating the outliers </s>
+37160, <s> SUBMISSION </s>
+32949, <s> Almost zero </s>
+12284, <s> Pie Chart </s>
+38765, <s> The train accuracy is 83 </s>
+3712, <s> Handle Missing Values </s>
+36920, <s> Observations </s>
+14470, <s> and conversion of object data type to categorical is necessary for reducing the space in memory and decrease time in computation </s>
+24166, <s> Augmentation </s>
+29322, <s> Model 3 </s>
+20440, <s> bureau </s>
+24466, <s> Fake Images </s>
+26929, <s> let s train the models </s>
+21854, <s> If we make a recap FNNs from my previous notebook had an accuracy of 80 CNNs had and accuracy of almost 90 while RNN reached 97 Lastly LSTMs were the best performing ones 99 accuracy </s>
+3340, <s> now check if any pending nan left in age feature </s>
+37213, <s> Choose Embedding </s>
+9810, <s> Heatmap </s>
+16439, <s> Age </s>
+28878, <s> We wil use a sliding window of 90 days </s>
+20828, <s> If you are assuming that all records are complete and match on the field you desire an inner join do the same thing as an outer join However in the event you are wrong or a mistake is made an outer join followed by a null check catch it Comparing before after of rows for inner join is equivalent but requires keeping track of before after row s Outer join is easier </s>
+1350, <s> Quick completing and converting a numeric feature </s>
+3429, <s> Embarked is a categorical variable that can take one of three values S Q or C </s>
+24035, <s> Visualizing the data that be used for training </s>
+7267, <s> Missing Value </s>
+13532, <s> For optimal 3 features </s>
+24519, <s> Drop all the other missing values </s>
+22658, <s> Loss Function </s>
+9040, <s> Information Gain of Categorical Norminal Variables </s>
+32864, <s> How much each item s price changed from its lowest highest historical price </s>
+27456, <s> Some question are written only in lowercase </s>
+41992, <s> Locating loc To read the item in a certain row and certain column </s>
+23630, <s> Making predictions </s>
+20630, <s> Stopwords Punctuations present in real vs fake tweets </s>
+31404, <s> The train csv file contains Label column with pixel values If we think it as filename label pair all we need is a filename for each of our data </s>
+37674, <s> Checking out how the data looks </s>
+2100, <s> Here it looks it makes a difference only in having a regular vs irregular lot shape </s>
+16995, <s> Tuning model </s>
+21774, <s> Convert the products feature columns into integer values </s>
+25887, <s> Histogram plots of number of punctuations in train and test sets </s>
+20497, <s> External Image Names </s>
+26176, <s> We first need a few things imported </s>
+28502, <s> Creating Features </s>
+24427, <s> Preprocessing the data </s>
+29981, <s> Fit the model </s>
+34105, <s> Age group distribution of covid 19 affected population </s>
+8159, <s> we ll map the correlation of independent variables so called collinearity </s>
+41199, <s> we can feed this data to our model </s>
+10347, <s> Label Encoding </s>
+18726, <s> use a list comprehension to extract the ids </s>
+32382, <s> Getting Data Ready For ML Algorithms </s>
+35520, <s> In this part numerical features have been analyzed </s>
+27208, <s> In more than half of the patients in our dataset the cancer is found on the torso </s>
+38824, <s> Define PyTorch dataset </s>
+29928, <s> Plots of Hyperparameters vs Score </s>
+35750, <s> alternate data source using top n features from Sequential Feature Selector </s>
+6762, <s> Checking Skewness for feature MiscVal </s>
+20906, <s> Create CNN model </s>
+27890, <s> The event window is located on the x axis where zero stands for the given event day </s>
+1605, <s> Fare </s>
+4254, <s> Nulls in training set </s>
+3691, <s> Submission File </s>
+41786, <s> Early stopping terminates the training of the neural network model at an epoch before it becomes over fit We set the patience to epochs 5 </s>
+41259, <s> Create A New Model </s>
+25862, <s> Classification Report of tune sgd model </s>
+9883, <s> Correlation Between Embarked Sex Pclass Survived </s>
+14903, <s> Pclass Age Sex vs Survived </s>
+35634, <s> Nearest Neighbors for our eight image </s>
+23846, <s> Taking a total of 378 feature count to 185 </s>
+38043, <s> Checking for Skewness of the data </s>
+27499, <s> Shallow CNN 2 with data augumentation and regularization </s>
+14434, <s> Plot Overall Survival </s>
+473, <s> Categorical Features </s>
+40445, <s> LotArea </s>
+23616, <s> Check if there are any missing values </s>
+8307, <s> Using Single Classifier </s>
+32322, <s> I need only the following three features from the dataframe </s>
+1616, <s> Random Forest </s>
+39312, <s> Save model and test set </s>
+2944, <s> Feature Correlation </s>
+33088, <s> Time to rebuilt the train and test set now </s>
+8533, <s> Target Variable </s>
+27828, <s> Extract xtrain ytrain </s>
+22752, <s> Plot Infectious Population and Total Infected Population for Multiple R0 </s>
+13855, <s> Creating new feature extracting from existing </s>
+27331, <s> Shape of files </s>
+17949, <s> Encode Name </s>
+5038, <s> The upper bound is 466 075 USD let s filter out samples beyond that cut off </s>
+23087, <s> 82 of accuracy during a cross validation is a correct score for the first shot in a binary classification </s>
+10673, <s> Final Adjustments </s>
+24047, <s> Target log transformation </s>
+32300, <s> Displays location of a country </s>
+42882, <s> Tree plot </s>
+17338, <s> XGB </s>
+305, <s> XGBoost </s>
+33295, <s> Pclass sorter </s>
+21117, <s> Scoring </s>
+27541, <s> Display the distribution of a multiple continous variable </s>
+15408, <s> Indeed there is quite a big difference between the average age of married and unmarried women in all passenger classes </s>
+10079, <s> Bivariate Analysis </s>
+4562, <s> Checking Skewness </s>
+22532, <s> Parch vs Survived </s>
+35932, <s> Binning Age </s>
+21516, <s> Splitting The Data into train and validation set </s>
+32224, <s> This is just a sample of what the different numbers that we re trying to classify look like </s>
+36978, <s> Submission Files </s>
+30318, <s> For test data set default start end positions to dummy integer </s>
+35689, <s> CatBoost Hyperparameter Tuning </s>
+37346, <s> Add the remaining layers </s>
+3174, <s> create a test function just to comapre the performance </s>
+20172, <s> To find optimal combination of parameters to achieve maximum accuracy using GridSearchCV from sklearn library GridSearchCV learn org stable modules generated sklearn model selection GridSearchChtml does exhaustive search over specified parameter values for an estimator </s>
+15295, <s> Logistic Regression Model </s>
+37231, <s> Lets convert heights to a longer format </s>
+13842, <s> Correlating categorical features </s>
+31907, <s> Makes predictions </s>
+38745, <s> Based on these visualizations we can conclude the following </s>
+1936, <s> Bathrooms in house </s>
+13756, <s> Obvious that females had a much higher chance of survival as compared to males </s>
+22333, <s> Stemming </s>
+33581, <s> Inference </s>
+8881, <s> We can create another feature where we can monitor the age of house from its selling date to the last time it was remodelled </s>
+10309, <s> Quick and Dirty Look at Validation Set </s>
+12663, <s> Our test set does not specify which passenger survived and which passenger did not </s>
+31433, <s> Checking Being Loss </s>
+1095, <s> Categorical variables need to be transformed to numeric variables </s>
+16933, <s> Data treatment Feature engineering </s>
+26990, <s> Submit </s>
+4122, <s> Data Preprocssing and Machine Learning </s>
+29789, <s> Sample few noisy and original images </s>
+36347, <s> Implement a Neural Network Multiclass Classification </s>
+13542, <s> Summary of df train </s>
+34020, <s> Heatmap </s>
+34512, <s> First we can establish an arbitrary date and then convert the time offset in months into a Pandas timedelta object </s>
+1254, <s> Fix skewed features </s>
+24349, <s> As we know SWISH activation function recently published by a team at Google </s>
+26254, <s> Evaluation Functions </s>
+16716, <s> Decision Tree Classifiers </s>
+16904, <s> Create a dataframe with Name Fare Pcalss FamilySize </s>
+12033, <s> Correlation </s>
+4110, <s> It is positively skewed </s>
+6788, <s> Fare </s>
+32745, <s> From my kernel </s>
+8075, <s> For the rest we just use a loop to impute None value </s>
+13622, <s> Categorical variables are ones which are not numerical </s>
+21589, <s> Filter in pandas only the largest categories </s>
+3017, <s> After imputing features with missing values is there any remaining missing values </s>
+12603, <s> find correlation between Numeric Variable </s>
+4993, <s> Predicting </s>
+939, <s> Clean Data </s>
+34064, <s> SibSp Survived </s>
+25941, <s> XGBoost </s>
+2330, <s> Sklearn metrics good ones to know </s>
+38211, <s> Resize the flattened images into 28x28x1 pixels images and regularize it by dividing it with highest value ie 255 </s>
+3731, <s> Drop not so important features </s>
+36351, <s> Define the Network Parameters </s>
+33703, <s> Color based on Value font </s>
+3578, <s> Data Cleaning Missing values </s>
+4451, <s> Train the selected model </s>
+41471, <s> Determine the Age typical for each passenger class by Sex Val </s>
+16256, <s> Misc </s>
+36192, <s> Seniority requires DT fecha dato as POSIXct strptime x DT fecha dato format Y m d conversion Sometimes it works sometimes it works more then Kaggle kernel allows </s>
+40449, <s> LotConfig </s>
+18165, <s> Getting common words from question1 and question2 in dataset </s>
+24325, <s> use robustscaler since maybe there are other outliers </s>
+27957, <s> For large datasets with many rows one hot encoding can greatly expand the size of the dataset </s>
+7726, <s> TotalBsmtSF Total Basement Square Feet </s>
+18953, <s> Display distribution of a continous variable for two or more groups </s>
+28595, <s> GrLivArea </s>
+15849, <s> Family Size </s>
+5916, <s> SVR </s>
+28410, <s> Generate Predicitons </s>
+23888, <s> Finished SquareFeet 12 </s>
+20454, <s> Application data </s>
+20621, <s> Survival Prediction on Test Data </s>
+15821, <s> We have deleted all the nan values </s>
+25294, <s> using this let us demean the contour data </s>
+4723, <s> To starts with I import necessary libraries and loaded the data set with pandas read csv method </s>
+41870, <s> Parameters to be investigated </s>
+3276, <s> Updating FireplaceQu LotFrontage MasVnrType and MasVnrArea PoolQC MiscFeature Alley Fence Electrical Functional SaleType Exterior1st KitchenQual Exterior2nd </s>
+19578, <s> Items Analysis </s>
+18336, <s> Moving forward i am going to check standard correlation coefficient between every pair of attributes using the corr method and try to decipher some relationships between variables </s>
+26636, <s> We create two indices correct and incorrect for the images in the validation set with class predicted correctly and incorrectly respectively </s>
+31854, <s> Trend Features </s>
+32150, <s> How to find all the local maxima or peaks in a 1d array </s>
+21578, <s> Named aggregations avoids multiindex </s>
+4007, <s> We write our own implementation of the algorithm </s>
+38668, <s> Decision Tree </s>
+32639, <s> URL </s>
+28189, <s> Accuracy refers to the percentage of the total predictions our model makes that are completely correct </s>
+22826, <s> Shops Analysis </s>
+28139, <s> Predicting the given test dataset </s>
+38779, <s> Select investment sales from test set predictions </s>
+23567, <s> A fresh beginning </s>
+30988, <s> The following code repeats this plot for all the of the numeric hyperparameters </s>
+25456, <s> Building the top model </s>
+13279, <s> We can use Logistic Regression to validate our assumptions and decisions for feature creating and completing goals </s>
+1923, <s> Garages </s>
+32410, <s> Determining number of iteration </s>
+16031, <s> Embarked </s>
+1900, <s> DecisionTree Model </s>
+7452, <s> Examining Missing Values </s>
+3666, <s> Checking that we got rid of all the NaN s </s>
+12115, <s> Machine Learning </s>
+102, <s> Correlation Matrix and Heatmap </s>
+15652, <s> Linear Discriminant Analysis </s>
+15927, <s> SibSp </s>
+24153, <s> we ll get the names of each product in the morning and afternoon groups in order to recreate the product list in the original chart </s>
+13675, <s> Exploring the data </s>
+26282, <s> As a model this time we use GradientBoostingRegressor Let s train it and check the Mean Absolute Error </s>
+26951, <s> Model Evaluation </s>
+36380, <s> Training Testing </s>
+30367, <s> Test PIL Image </s>
+897, <s> for Random Forest classifier </s>
+14560, <s> Highest number of Siblings Spouses were 8 in number boarded from Southampton font </s>
+8668, <s> Trying to use embeddings for encoding categorical features </s>
+27462, <s> Combos </s>
+17871, <s> Classes of some categorical variables </s>
+25847, <s> Cleaning Text </s>
+4886, <s> You need to do the same changes in test dataset aslo lest merge test and train </s>
+30682, <s> Submisson </s>
+54, <s> Gradient Boosting </s>
+12103, <s> Making Training Validation Test Dataset </s>
+6928, <s> Four features have very few values drop them for the first analysis </s>
+38670, <s> Gaussian Naive Bayes </s>
+16263, <s> SibSp ParCh </s>
+38501, <s> Analysis of the Sentiment Column </s>
+9474, <s> Setup This function initializes the environment in pycaret and creates the transformation pipeline to prepare the data for modeling and deployment setup must called before executing any other function in pycaret It takes two mandatory parameters dataframe array like sparse matrix and name of the target column All other parameters are optional </s>
+6380, <s> Find out standard deviation </s>
+13477, <s> Assessing the model s performance based on Cross Validation ROC AUC </s>
+38658, <s> Age Range </s>
+18962, <s> Display distribution of a continuous variable for multiple categories with hist curve instead of bar </s>
+20751, <s> SsnPorch column </s>
+29883, <s> Visualization of model outputs for all training data </s>
+38968, <s> instead of using all the 400000 word vectors lets use only vectors form words present in the train and test data codes mean that we are giving each unique word a index number and storing in word2idx dictionary and also creating a new embedding dictionary which maps those numbers to a coeff from glove embeddings If the word does not exist in the glove embedding then we give them a random coeffs of same dimension </s>
+35128, <s> Working With TIME </s>
+21844, <s> Understanding the Model </s>
+1048, <s> We gather all the outliers index positions and drop them from the target dataset </s>
+4940, <s> let s check if there are any missing values left </s>
+21655, <s> Check the equality of 2 series </s>
+27216, <s> Submission </s>
+40714, <s> Visualize Digits dataset </s>
+8094, <s> Pclass vs Survival </s>
+42919, <s> Quantitative </s>
+25938, <s> Correlation </s>
+24739, <s> DBSCAN Density Based Spatial Clustering of Applications with Noise </s>
+20589, <s> Random Forest Classifier </s>
+34222, <s> We ll make a get items that simply returns our good images </s>
+17610, <s> Ensemble votring </s>
+9612, <s> Histogram </s>
+32143, <s> How to find the maximum value in each row of a numpy array 2d </s>
+27762, <s> Lemmatizing and stemming the text </s>
+18162, <s> Fields in both input files are </s>
+33691, <s> Calendar </s>
+12216, <s> And the best parameters are </s>
+11101, <s> Drop features where more than 20 records are null </s>
+6141, <s> Features engeneering </s>
+26944, <s> AMT INCOME TOTAL </s>
+15032, <s> Distribution of Survived passengers on Embarked in Train Set </s>
+42565, <s> it gets interesting </s>
+26865, <s> The gaussian blur works the sme way except it uses a ponderation in the computation of the local mean around a pixel to give more weights to closer pixels </s>
+37500, <s> numeric values related to SalePrice </s>
+28600, <s> The different categories exhibit a range of average SalePrice s </s>
+30382, <s> Avoid leakage take only non overlapping values for training </s>
+33813, <s> Improved Model Random Forest </s>
+35346, <s> In this case the average values do not vary a lot </s>
+37951, <s> The Confirmed Cases are on the left Y axis and the Fatalities on the right Y axis </s>
+29718, <s> Whole pipeline with estimator included </s>
+21573, <s> Creating a time series dataset for testing </s>
+8528, <s> Basement Features </s>
+10977, <s> Top influencers </s>
+12953, <s> Basic data analysis </s>
+33676, <s> Least Last font </s>
+11015, <s> Lets map sex first </s>
+37655, <s> Save the model and model weights These files going to output folder as expected You can download them </s>
+7710, <s> Skewness </s>
+35530, <s> In this part a blended model was created with regression models </s>
+20256, <s> Even if when I use pytorch for neural networks I feel better if I use numpy </s>
+12371, <s> Applying the replacements </s>
+8078, <s> Features Simplication </s>
+294, <s> Pclass </s>
+3596, <s> ElasticNetCV </s>
+18948, <s> Relationship between variables with respective to time with range slider </s>
+37138, <s> Softmax Activation Function </s>
+32570, <s> Objective Function </s>
+34044, <s> we proceed to parsing using the function pandas to datetime </s>
+26476, <s> For Submission </s>
+33287, <s> Age Filler </s>
+11659, <s> Naive Bayes </s>
+13233, <s> Train data is approximately twice as large as test data </s>
+20060, <s> Prepare the submission </s>
+34271, <s> Predict </s>
+12918, <s> Missing values </s>
+9937, <s> am going to replace the missing value in the Fare column by the average fare of according to the Sex p </s>
+24672, <s> DATA PIPELINE </s>
+18297, <s> preview our function </s>
+1171, <s> impute all incongruencies with the most likely value </s>
+42059, <s> Using python and math to display max min mean </s>
+28489, <s> WOW reduced from 35MB to 24MB </s>
+15648, <s> Extra Trees </s>
+17255, <s> Load Data </s>
+6499, <s> A lot of difference between the selected features </s>
+8017, <s> it s Catergorical data </s>
+1161, <s> use test data </s>
+6011, <s> Seperti yang sudah saya jelaskan di bagian intro saya akan menggunakan algoritma Random Forest Regressor lalu pakai Randomized Search sebagai Hyper Parameter </s>
+17942, <s> Preprocessing </s>
+24752, <s> Box Cox Transformation of skewed features </s>
+34661, <s> Replotting in log10 scale </s>
+245, <s> Model and Accuracy </s>
+1884, <s> There are 3 values for Embarked S C and Q </s>
+22680, <s> Load embeddings </s>
+40377, <s> Defining the paths </s>
+30884, <s> Improve the model </s>
+16701, <s> Create new feature combining existing features </s>
+13454, <s> 20 of entries for passenger age are missing </s>
+1674, <s> Great now let s have a look at our Survival predictions </s>
+32845, <s> Training </s>
+28087, <s> Run on training data </s>
+6588, <s> Same can be done as follows </s>
+24991, <s> As a sanity check checking that the number of features in train X numerical match the total number of numerical features </s>
+13277, <s> Creation of training and validation sets </s>
+32137, <s> How to convert an array of arrays into a flat 1d array </s>
+32869, <s> Train validation split </s>
+8293, <s> Decision Tree </s>
+2257, <s> Embarked Pclass and Sex </s>
+11689, <s> The accuracy of logistic regression model as reported by Kaggle is 77 </s>
+10160, <s> Stackoverflow developing survey </s>
+31643, <s> SCORE </s>
+5456, <s> work through a single point sample calculate a 95 Confidence interval </s>
+37118, <s> category name </s>
+14277, <s> Bagged Desition Tree </s>
+15540, <s> Try Other Models SVM and Random Forest </s>
+30180, <s> LSTM Model </s>
+2935, <s> Data Processing </s>
+164, <s> This is good enough but there is a neater way </s>
+8479, <s> at this point we not cut any additional outlier but we not make use of the sales price transformation in your log1p and thus avoid the linear pattern of the residuals </s>
+16498, <s> KNN </s>
+23023, <s> Sell Price Analysis </s>
+37017, <s> Top 20 categories by average price </s>
+8782, <s> One hot encoding for title </s>
+13711, <s> COMPLETENESS ISSUES </s>
+36875, <s> features reshaping 1d vector to 2d images </s>
+43247, <s> usually variance of is sufficient to explain the variation in data so we first train data by taking the top n principal components which can explaine the variance of </s>
+10276, <s> Random forest </s>
+15842, <s> SibSp and Parch </s>
+38704, <s> After encoding </s>
+7307, <s> Observation </s>
+29419, <s> we have to stem our text be using SnowballStemmer as it is quite good for the job let s just get to the code </s>
+39946, <s> Ridge regression </s>
+11048, <s> Over the course of data preprocessing many functions are used that help in extracting features p </s>
+42403, <s> Sarima Predictions </s>
+20755, <s> MiscFeature column </s>
+5806, <s> Solving the problem using XGBRegressor </s>
+30941, <s> Visualizing Interest Level Vs Bedrooms </s>
+15629, <s> Missing Data </s>
+4561, <s> Adding one more important feature </s>
+11973, <s> We fill BsmtQual BsmtCond BsmtExposure BsmtFinType1 BsmtFinType2 GarageType GarageFinish GarageQual FireplaceQu GarageCond with None Take a look in the data description </s>
+21588, <s> Combine the small categories into a single category named Others using where </s>
+20830, <s> we ll extract features CompetitionOpenSince and CompetitionDaysOpen </s>
+31685, <s> use the autoencoder to produce denoised images from noisy ones present in x val </s>
+18310, <s> Mean Encoding for item id </s>
+149, <s> XGBClassifier </s>
+12036, <s> A few categorical variables are ordinal variables so let s fix them </s>
+9428, <s> swarmplot </s>
+2675, <s> MI for Regression </s>
+21198, <s> L Model Backward </s>
+15611, <s> Name Length </s>
+22927, <s> Just one last thing </s>
+10036, <s> Extract features from Name </s>
+14795, <s> SGD Classifier </s>
+5430, <s> Fireplace </s>
+5468, <s> From the RF object we can pull feature importance and plot </s>
+11046, <s> let us first import out libraries </s>
+24310, <s> take a loot to the first prediction </s>
+18324, <s> Update parameters </s>
+32515, <s> Pre processing the features </s>
+34013, <s> No outliers </s>
+31686, <s> Seperate models for noise reduction and classification are not very practical hence we are going to combine them into single unit using the Model class </s>
+12512, <s> All set Moving on to incorporate this data </s>
+665, <s> Decision Tree </s>
+9745, <s> Parch </s>
+2936, <s> Check the distribusion of Prices </s>
+16463, <s> Handling categorical variables </s>
+24061, <s> Finished trialwith value with parameters </s>
+11951, <s> Our first goal is to create the models and find their best hyperparameters by running the model individually by gridsearch cross validation </s>
+3220, <s> 2D Histogram </s>
+8139, <s> the features with a lot of missing values have been taken care of move on to the features with fewer missing values </s>
+14844, <s> Since some of them are first or second class passengers I decided to remove zero Fares that might confuse my model </s>
+15350, <s> Validation </s>
+27836, <s> CNN </s>
+15876, <s> Or just the best parameters </s>
+9007, <s> Deal with Null Values that contain information content </s>
+15874, <s> We have set out a total of 4 times 4 16 models over which to search </s>
+4891, <s> Wohh that s lot s of title </s>
+40151, <s> Interestingly enough there are opened store with no sales on working days </s>
+32507, <s> Compiling the Model 2 </s>
+23815, <s> take the variables with high correlation values and then do some analysis on them </s>
+11313, <s> Correlation Matrix </s>
+32980, <s> Encoding categorical features </s>
+1282, <s> Fare 3 2 6 </s>
+34906, <s> Check some Null s </s>
+23425, <s> we analyze tweets with class 1 </s>
+1862, <s> Random Forest </s>
+956, <s> Output of the First level Predictions </s>
+27098, <s> The architecture of VGG16 is kept mostly the same except the Dense layers are removed </s>
+20523, <s> Looking for Correlations </s>
+2451, <s> Regression </s>
+37783, <s> Install LOFO and get the feature importances </s>
+31712, <s> Here s my function for splitting up hdf5 model files </s>
+32768, <s> Label encoding </s>
+25420, <s> Uniform day of week distribution </s>
+36672, <s> Each vector have as many dimensions as there are unique words in the SMS corpus We first use SciKit Learn s CountVectorizer This model convert a collection of text documents to a matrix of token counts </s>
+21071, <s> Function for preprocessing </s>
+19045, <s> Load in the csv file </s>
+34418, <s> we analyze tweets with class 1 </s>
+2793, <s> To analyze the performance of models is to use the evaluate model function which displays a user interface for all of the available plots for a given model It internally uses the plot model function </s>
+35608, <s> True label is 9 but predicted is 8 </s>
+15954, <s> Reading the Dataset </s>
+8514, <s> Feature Engineering Creating New Features </s>
+27209, <s> A nevus is basically a visible circumscribed chronic lesion of the skin </s>
+32498, <s> Train the Model </s>
+627, <s> Based on this plot we define a new feature called Bad ticket under which we collect all the ticket numbers that start with digits which suggest less than 25 survival </s>
+37195, <s> Performing Label Encoding </s>
+1753, <s> Median imputation Comparing the KDE plot for the age of those who perished before imputation against the KDE plot for the age of those who perished after imputation </s>
+30397, <s> Fitting </s>
+4293, <s> Based only on the total square footage we get a R squared of 0 </s>
+2918, <s> Split into features and class </s>
+36998, <s> Hours of Order in a Day </s>
+28133, <s> Splitting training and test set from our training dataset to train our model </s>
+40269, <s> We want to over fit a simple model on the dataset </s>
+41058, <s> Plotting the a few groups with at least two data points to them I can t really tell if group 1 was created from clustering the characteristics </s>
+2136, <s> While the model is not performing very well it is also very easy to tune </s>
+24813, <s> Low correlation </s>
+20795, <s> Filling Numerical Missing Values </s>
+14339, <s> Lets to select only some of the features </s>
+36855, <s> Normalization </s>
+36290, <s> Logistic Regression </s>
+20525, <s> Log Transformation of the target varibale </s>
+9124, <s> Set up Categorical Ordinal Variables </s>
+17362, <s> Kfold for cross validation </s>
+5146, <s> Missing values </s>
+27337, <s> Reshaping data as images </s>
+42985, <s> Creating Word Cloud of Duplicates and Non Duplicates Question pairs </s>
+37707, <s> what s next </s>
+6139, <s> Checking the full dataset </s>
+5135, <s> Discrete Variables </s>
+10959, <s> Normality and skewness </s>
+3463, <s> we make some dummy variables for the Deck variable and add them to the dataset </s>
+6113, <s> By the way let s fill all the missing years with the date of the houses were built </s>
+4715, <s> let s fill in the missing values of the age column </s>
+24696, <s> let s define a trainer and add some practical handlers </s>
+29463, <s> Number of distinct questions </s>
+23251, <s> We keep Passenger Id separate and use it for Submission </s>
+1534, <s> Ticket Feature </s>
+7430, <s> Compared to grid search randomized search is less time consuming so we start from a wider range of parameters with randomized search </s>
+2215, <s> Confusion Matrices for 4 models </s>
+14424, <s> Use function cabin fillN to assign Cabin letter based on mean Fare per Cabin </s>
+31580, <s> Clusters of binary properties exhibit some kind of correlation </s>
+3725, <s> Train Xgboost Regressor </s>
+16676, <s> Analyze about fare </s>
+35252, <s> Difference variable would be difference between length of selected text and length of whole text </s>
+18157, <s> Split the dataset raw features </s>
+34232, <s> make our true get bbox and get lbl </s>
+2875, <s> On submitting this file on Kaggle we are getting a rmse score of 0 </s>
+1074, <s> SalePrice is the variable we need to predict let s do some analysis on this variable first </s>
+31913, <s> Reshaping Data </s>
+11757, <s> The random search for the XGBoost took a long time so I put it in here and changed some things </s>
+4147, <s> Mean Median Mode Imputation on Titanic dataset </s>
+20448, <s> bureau balance </s>
+34273, <s> KNN performance on longitude and latitude data </s>
+5852, <s> CORRELATION </s>
+20719, <s> LotConfig column </s>
+8024, <s> Cabin </s>
+28190, <s> Natural Language Processing using NLTK </s>
+4701, <s> Modeling </s>
+12396, <s> Plotting the residual plot for the model </s>
+9807, <s> Checking Missing value is present or not in our dataset </s>
+8434, <s> Pool Quality Fill Nulls </s>
+30824, <s> Mean Average Precision </s>
+19882, <s> Power Transformer Scaler </s>
+41535, <s> But what of 3d data </s>
+4038, <s> Categorical columns decorations </s>
+19324, <s> Data Normalization </s>
+16405, <s> On this Contingency Matrix we can do some statistical tests like Chi Square Test </s>
+9905, <s> Simple Logistic Regression </s>
+3861, <s> Splitting our train data into 70 train dataset and 30 test dataset </s>
+26297, <s> Training </s>
+5353, <s> Diplay surface relationshiop between multiple values </s>
+18575, <s> Most number of passengers were embarked in Southampton </s>
+8370, <s> CLASSIFICATION </s>
+26412, <s> Analyzing the ditributions for different Pclass reveals that for instance some 3rd class tickets are much more expensive than the average 1st class ticket </s>
+24400, <s> Final output the predictions to a competition file format </s>
+15232, <s> Here we are deleteting Survived Column cause it is target value to be predicted </s>
+31008, <s> Model Design and Achitecture </s>
+38101, <s> We need to understand that our data set contains 60 000 traning images and 10000 testing images </s>
+552, <s> RandomizedSearchCV and GridSearchCV apply k fold cross validation on a chosen set of parameters </s>
+8368, <s> Convert Pclass into categorical variable </s>
+15076, <s> Fare Group </s>
+15595, <s> Missing Data </s>
+9871, <s> I am going to concatenate train and test values in order to find missing values </s>
+11784, <s> Cabin </s>
+40001, <s> Prepare to start </s>
+39024, <s> Split a part of the train dataset for test the algorithms </s>
+15271, <s> Decision Tree Algorithm </s>
+20157, <s> Extracting label from data </s>
+34287, <s> Prediction </s>
+9423, <s> Calander Plot </s>
+42628, <s> Line plot with Date and ConfirmedCases </s>
+31116, <s> Correlation between target and log price </s>
+14619, <s> It s your turn </s>
+23040, <s> Relationship of Lag Variables </s>
+11032, <s> Perceptron </s>
+27064, <s> Count Locations </s>
+43246, <s> define normalize function for normalizing the data PrincipalComponents function to return top n principal components </s>
+22124, <s> Blending </s>
+23513, <s> There are 4 elements in the class </s>
+31681, <s> Proceeding to train the classifier </s>
+15730, <s> Evaluate the Random Search for Hyperparameter Tuning </s>
+15328, <s> Lets create a new column of fam using SibSp which means number of Siblings or Spouse and Parch which means number of Parents or Children later we be dropping SibSp and Parch from our data set since these values are alreday being used in Fam </s>
+35073, <s> Making predictions using Solution 5 </s>
+18661, <s> Fit Model </s>
+41928, <s> Interestingly we have 12 features which only have a single value in them these are pretty useless for supervised algorithms and should probably be dropped </s>
+36801, <s> And lastly we actually parse the example sentence and display its parse tree </s>
+4960, <s> Final Training and Prediction </s>
+27377, <s> RMSE 1 </s>
+38936, <s> By mean of both Random forest and Xgboos </s>
+42616, <s> we ll specifiy how the model is optimized by choosing the optimization algorithm and the cost or loss function The Adam optimization algorithm works well across a wide range of neural network architectures Adam essentially combined two other successful algorithms gradient descent with momentum and RMSProp For the loss function softmax cross entropy with logits is a good choice for multi class classification </s>
+22477, <s> Area chart Unstacked </s>
+34703, <s> Shop active months </s>
+10861, <s> Getting the scatterplot for the top correlated features </s>
+21611, <s> Calculate the difference between each row and the previous diff </s>
+30000, <s> Seperation of Features and Labels as well as reshapig for CNN input </s>
+37176, <s> Create the predictions </s>
+40058, <s> Running models with StratifiedKFold </s>
+18129, <s> Random Forest Regressor </s>
+27032, <s> Combine the two prob together </s>
+29925, <s> gbdt it should be Notice that random search tried gbdt about the same number of times as the other two while Baian optimization tried gbdt much more often </s>
+16533, <s> let s plot and analyze the age and survival correlation </s>
+43136, <s> CatdogNet 16 </s>
+16650, <s> Missing Values </s>
+5154, <s> go ahead and select a subset of the most predictive features </s>
+23883, <s> Almost all are float variables with few object variables </s>
+12893, <s> The medians are a little different here although not by much </s>
+34753, <s> Vocabulary and Coverage functions </s>
+8548, <s> Basement Features </s>
+10108, <s> predict a Testing data with our XGB Model </s>
+28325, <s> Exmaine the previous application Dataset </s>
+12130, <s> Splitting the data back into the original train sub form 1 </s>
+15011, <s> Passenger Class </s>
+27280, <s> Visualize many predictions </s>
+19304, <s> Data Preparation </s>
+30265, <s> Scikit Learn won t let us set threshold directly but it give us access to decision scores it uses to make predictions </s>
+20362, <s> Pearson Correlation Plot </s>
+24749, <s> Imputation </s>
+35557, <s> Parameters </s>
+15984, <s> In this part we scale the numeric features and convert the categorical features into numeric features </s>
+7453, <s> Age Column </s>
+13893, <s> Data Balance </s>
+5904, <s> when to use only fit and fit transform Only fit used below </s>
+40412, <s> the latitude values are primarily between and look at the longitude values </s>
+16378, <s> categorizing starting from 1 </s>
+23036, <s> Quarter Analysis </s>
+20396, <s> Multinomial Naive Bayes Model </s>
+16367, <s> Try Groupby </s>
+19582, <s> Concat test into train </s>
+34015, <s> January 0 </s>
+31544, <s> MasVnrType </s>
+5193, <s> We can now compare our models and to choose the best one for our problem </s>
+30532, <s> Exploration of Bureau Data </s>
+19614, <s> Indicator features </s>
+14100, <s> Model Comparison </s>
+21525, <s> And after the max pooling </s>
+39776, <s> create a first simple model that be my baseline model </s>
+22273, <s> I choose to fill the missing cabin columns with 0 instead of drop it becuase cabin may be associated with passenger class We have a look at a correlation matrix that includes categorical columns once we have used One Hot Encoding </s>
+5163, <s> Bagging boosting </s>
+30972, <s> To get a sense of how grid search works we can look at the progression of hyperparameters that were evaluated </s>
+32030, <s> we put predicted age data to cells with only missing age values in Age column </s>
+22110, <s> Scaling numeric data </s>
+26013, <s> Last but not the least Inorder to proceed further in data cleaning and transformations It is always of prime importance to check the distribution of all the numeric variables involved in the study most importantly the target variable SalePrice </s>
+32820, <s> Dealing with missed variables </s>
+8090, <s> Loading Data </s>
+33608, <s> Building Classifier </s>
+19529, <s> Applying Function as Filter </s>
+28130, <s> MIN DF and MAX DF parameter </s>
+9235, <s> Neural Network with Tensorflow </s>
+29570, <s> let s try ML now </s>
+25675, <s> Feature Analysis </s>
+26804, <s> StratifyGroupKFold </s>
+1879, <s> Class </s>
+11755, <s> Models </s>
+6631, <s> Most of the embarkments were from class S </s>
+7087, <s> Feature Engeneering </s>
+24018, <s> And examples of the wrong classified images </s>
+6257, <s> Therefore Fare lends itself to being a good candidate for binning into categories as well </s>
+23620, <s> Ensembling </s>
+29814, <s> SkipGram Model </s>
+6052, <s> Simila distributions but different ranges </s>
+41635, <s> Remove Extra Whitespaces </s>
+13469, <s> Exploration of Traveling Alone vs With Family </s>
+43365, <s> for each prediction there is a vector of 39 probabilities </s>
+37093, <s> Categories Display Target Density and Target Probability </s>
+37891, <s> Prediction from Linear Model </s>
+38479, <s> Class distribution font </s>
+17752, <s> Tuning RF parameters somewhat methodically </s>
+27369, <s> droping the category name and shop name </s>
+5975, <s> GridSearch </s>
+7957, <s> Test with higher beta </s>
+8393, <s> Creating a new entity Id inside the created EntitySet </s>
+27147, <s> Category 4 Location and Style </s>
+13087, <s> Decision Surface </s>
+16437, <s> Looks like Pclass can help to fill the missing value </s>
+7414, <s> We know that Alley FireplaceQu PoolQC Fence MiscFeature are all categorical variables and their missing values occupy over 50 of total </s>
+18426, <s> also check if the CV score improved after the stacking from the single models or not </s>
+30770, <s> Ensemble learning </s>
+27137, <s> Scatterplots </s>
+7362, <s> SPLIT THE DATA FOR LINEAR MODEL AND BOOSTS NN </s>
+9217, <s> Overall Bivariate Relation </s>
+29103, <s> Bidirectional LSTM </s>
+13974, <s> Embarked vs Sex </s>
+31740, <s> With Gaussian Blur </s>
+43039, <s> we are ready to train the model </s>
+23424, <s> First we analyze tweets with class 0 </s>
+40841, <s> max is 3 mean is only 0 </s>
+41668, <s> The focus of this section be on tuning the following Random Forest hyperparameters in order to prevent overfitting </s>
+4343, <s> Dataset summary </s>
+22974, <s> Mean sales per week </s>
+15385, <s> fill the remaining missing Ages with the mean values </s>
+24907, <s> Confirmed COVID 19 cases per day in China </s>
+720, <s> One thing to note about this dataset is the lack of data and with it the curse of dimensionality </s>
+20956, <s> Evaluating model performance with evaluate method </s>
+10965, <s> Adjusting the type of variable </s>
+38103, <s> Reshaping and Normalizing the Images </s>
+29727, <s> Distribution of target variable </s>
+10720, <s> I know what you want next </s>
+30091, <s> C O N F I G U R A T I O N </s>
+7122, <s> Pclass vs survived </s>
+33690, <s> Check if the dates are in US holidays </s>
+4852, <s> LightGBM </s>
+16766, <s> Look at hte prepared Data </s>
+35354, <s> We have total three csv files in this dataset </s>
+19836, <s> Exponential transformation </s>
+42313, <s> Probabilities Testing Set </s>
+10351, <s> Normal distribution doesn t fit so SalePrice need to be transformed before creating the model </s>
+30901, <s> After fullfillign the regionidcity let s check what columns are left </s>
+22053, <s> Some quick findings </s>
+1718, <s> Peeking at Datasets </s>
+2659, <s> We have our training data validation data </s>
+38029, <s> Logistic Regression </s>
+17696, <s> MODELS </s>
+29466, <s> Checking for missing values </s>
+21146, <s> We have cleaned and scaled data with defined linear correlation </s>
+32210, <s> Add lag values for item cnt month for every month shop combination </s>
+33889, <s> POS CASH balance loading converting to numeric dropping </s>
+5536, <s> Drop Unneeded Columns </s>
+9672, <s> Transform the dataset and get it ready for tuning </s>
+42006, <s> isin filtering by conditions multi conditions in multi columns </s>
+29140, <s> Mutual Information plots </s>
+15057, <s> Submit </s>
+25453, <s> How d We Do </s>
+18007, <s> Indeed the gender is the feature that is most highly correlated with survival among all with correlation coefficient of 0 </s>
+15724, <s> Decision Tree Classification </s>
+18475, <s> It is realistically better to input the median value to the three Nan stores then the mean since the mean is biased by those outliers </s>
+28222, <s> Final model s accuracy </s>
+23600, <s> I am splitting into training and testing set for now </s>
+2951, <s> Fit these best estimators into the model </s>
+33032, <s> Using prcomp on the original dataset throws an error </s>
+28696, <s> Clearly we have a variety of positive and negative skewing features I transform the features with skew to follow more closely the normal distribution </s>
+43000, <s> Here I check number of rows for each ID </s>
+27642, <s> But the table of data is not enough as we have to split the label or what we are predicting from the training data or the pixels </s>
+36364, <s> Creating pipeline </s>
+27647, <s> Creating the Submission </s>
+16385, <s> Combining Sex Titles Pclass </s>
+42540, <s> Transform questions by TF IDF </s>
+32818, <s> Correlation Table of price doc t by methods pearson kendall spearman </s>
+13664, <s> Modeling </s>
+42053, <s> get group </s>
+4919, <s> Looking at Skewed Features </s>
+16005, <s> New features Relatives and Age Pclass </s>
+38310, <s> Logistic Regression </s>
+2445, <s> Correlations </s>
+19899, <s> Bottom 10 Sales by Item </s>
+9767, <s> Feature Selection </s>
+28166, <s> spaCy s Processing Pipeline </s>
+20508, <s> The worst toxic train questions </s>
+22646, <s> The names are transformed into title </s>
+26661, <s> This file contains descriptions for the columns in the various data files </s>
+12463, <s> Train and Test sets </s>
+14249, <s> Embarked Categorical Feature </s>
+42836, <s> We compute the 10 fold cross validation score by using </s>
+10821, <s> it is time to predict missing values of Age </s>
+22650, <s> Sigmoid </s>
+32082, <s> We have 14 continuous variables in our dataset </s>
+23937, <s> Verifying if products actually have description </s>
+16606, <s> Outliers </s>
+21393, <s> Readiness for Submission File </s>
+32865, <s> Rolling window based features window 3 months </s>
+25728, <s> Image Augumentation </s>
+15781, <s> Perceptron </s>
+1516, <s> Trying to plot all the numerical features in a seaborn pairplot take us too much time and be hard to interpret </s>
+41300, <s> Feature importance </s>
+11404, <s> Selecting Multiple Columns </s>
+23745, <s> Logistic Regression </s>
+17935, <s> Embarked </s>
+29422, <s> First we store the target data into a variable </s>
+22328, <s> Removing URLs </s>
+37916, <s> Evaluation </s>
+8303, <s> The best model is XGB in these runs </s>
+41227, <s> start applying different algorithm on the train dataset </s>
+24694, <s> let s define a single iteration function update fn </s>
+15530, <s> Fare </s>
+10635, <s> first finish some routine tasks before diving deeper </s>
+37833, <s> SVM </s>
+41970, <s> Model Building </s>
+23528, <s> Below the encoding is applied to every sentence in train </s>
+37662, <s> Data loading </s>
+41846, <s> XG BOOST </s>
+38957, <s> Creating Dataset </s>
+43350, <s> The first image in our test dataset is 2 </s>
+7640, <s> remove outliers </s>
+40720, <s> Training </s>
+1684, <s> Relationship of a numerical feature with another numerical feature </s>
+42325, <s> Converting label into categorical form </s>
+3162, <s> The onehot function converts a categorical variable into a set of dummies </s>
+14284, <s> Parameter tuning gridSearchCV </s>
+5885, <s> Lasso </s>
+6042, <s> Create stacked model and make a new submission </s>
+23295, <s> Categorical Features </s>
+20771, <s> Having obtained our tf idf matrix a sparse matrix object we now apply the TruncatedSVD method to first reduce the dimensionality of the Tf idf matrix to a decomposed feature space referred to in the community as the LSA method </s>
+7354, <s> Some feature have wrong format </s>
+19196, <s> we have compact small table easy to work with </s>
+20081, <s> Worst Sales Item </s>
+29112, <s> The data is ready Time to feed it to a Convolutional Neural Network </s>
+7709, <s> Target Analysis </s>
+13500, <s> Title </s>
+20643, <s> Word Embeddings </s>
+32139, <s> How to create row numbers grouped by a categorical variable </s>
+32239, <s> Always Always Always remember to close the session after you are done with the computations </s>
+16226, <s> we drop the columns which we don t require </s>
+28078, <s> Unlike the train data there is no missing value in the Embarked column but there is one missing value for fair </s>
+2983, <s> Residual plot </s>
+42781, <s> Creating the model </s>
+37019, <s> Can we split those categories by level </s>
+43397, <s> First of all we need some fooling targets </s>
+23606, <s> Loss Function </s>
+29331, <s> With the PCA values </s>
+11116, <s> Split into Train and validation set </s>
+43323, <s> Reshape </s>
+15754, <s> Modeling </s>
+7557, <s> Voting Classifier </s>
+12090, <s> Update the model with the second part </s>
+35321, <s> Plot loss and accuracy </s>
+30284, <s> Active Count 50 </s>
+22828, <s> Great so all shops id s in the test set are also present in the training set </s>
+14825, <s> Embarked </s>
+40743, <s> Choosing final Model </s>
+9087, <s> MSSubClass and HouseStyle </s>
+24912, <s> Time evaluation </s>
+31096, <s> GarageCars font </s>
+20125, <s> Device model </s>
+42417, <s> Outlier Analysis </s>
+18914, <s> Age Feature </s>
+37746, <s> we can use the dictionary along with a few parameters for the date to read in the data with the correct types in a few lines </s>
+30860, <s> In this example we be using the MNIST dataset which is a set of 70 000 small images of digits handwritten </s>
+15681, <s> Train first layer </s>
+25479, <s> In order to make the optimizer converge faster and closest to the global minimum of the loss function i used an annealing method of the learning rate </s>
+22046, <s> Since our metric is RMSLE let us use log of the target variable for model building rather than using the actual target variable </s>
+38953, <s> Configuration </s>
+22407, <s> Getting closer </s>
+229, <s> Library and Data </s>
+27152, <s> Mason Veneer Types Most of the properties are not having Masonry veneer walls and have low sale price </s>
+43124, <s> Import ML methods for training the models </s>
+28110, <s> Measure the model fit against multiple models </s>
+43063, <s> check now the distribution of the mean value per row in the train dataset grouped by value of target </s>
+32691, <s> Ok let s now train the model </s>
+35502, <s> Fit the Model </s>
+29362, <s> Building Model </s>
+5045, <s> Not surprisingly most positively correlated features are e </s>
+43022, <s> Feature selection Matrix extra need bit more understanding and usage </s>
+42455, <s> Checking missing values </s>
+35463, <s> Visualiza the skin cancer at Palms soles </s>
+41909, <s> Optional only keep images of type 0 and 2 2 being the second most present class in this sample </s>
+30520, <s> Target Variable with respect to Organization and Occupation Type </s>
+31680, <s> Constructing a very simple neural network to classify our images </s>
+4608, <s> Things to note </s>
+29780, <s> Visualise Training data </s>
+31618, <s> F1 score is precision and recall combined into single metric </s>
+22606, <s> Final preparations </s>
+34022, <s> Count Atemp </s>
+41162, <s> FEATURE 8 DEBT OVER CREDIT RATIO </s>
+27458, <s> Handle Capitalized Words </s>
+15155, <s> converting Categorical data to Numerical </s>
+5398, <s> I tell the missing fare by the PClass Parch and SibSp </s>
+8080, <s> Overfitting prevention </s>
+36939, <s> Fare </s>
+38293, <s> Fit the model </s>
+16913, <s> Encode categorical </s>
+34240, <s> Load Libraries </s>
+29930, <s> for the next four hyperparameters versus the score </s>
+20408, <s> Number of unique questions </s>
+816, <s> log transform </s>
+33894, <s> bureau agg previous application agg application train test </s>
+35769, <s> Additional testing </s>
+2530, <s> Hyper Parameter Tuning for AdaBoost </s>
+1632, <s> Log transformation </s>
+12778, <s> Start modeling </s>
+27832, <s> Normalization </s>
+2321, <s> Fitting a RandomForest Regressor </s>
+2421, <s> let s take a look at all the categorical features in the data that need to be transformed </s>
+39423, <s> map Sex to 0 for male and 1 for female </s>
+5254, <s> Drop Column Importance </s>
+42642, <s> Mislabeled Samples After Cleaning </s>
+20035, <s> Since this is a multiclass classification problem we One Hot Encode the labels </s>
+13229, <s> Pseudo Labeling Technique explanation of semi supervised learning and pseudo labeling c2218e8c769b </s>
+37911, <s> Evaluation </s>
+31349, <s> Take a look at your submission object now by calling </s>
+8088, <s> Deal with predictions close to outer range </s>
+13503, <s> Correlation </s>
+22276, <s> We fill with the mode of the data column </s>
+29017, <s> Age </s>
+18433, <s> Creation of the histograms </s>
+14713, <s> K NEAREST NEIGHBORS </s>
+3033, <s> Model Predictions </s>
+40688, <s> NOW WE CAN DO SOME FEATURE ENGINEERING AND GET SOME NEW FEATURES AND DROP SOME USELESS OR LESS RELEVANT FEATURES </s>
+9245, <s> Correlation matrix of some selected features </s>
+15720, <s> Train dataset </s>
+530, <s> Boxplot </s>
+13607, <s> When handle missing indicator an indicator column be added </s>
+42413, <s> First Few Rows Of Dataset </s>
+32033, <s> GridSearchCV returns test scores There be 5 because we use 5 fold CV splits for each parameter combination in param grid </s>
+32039, <s> Since we want high True Positive Rate and low False Positive Rate we can set the point closest to 0 1 on ROC curve as the optimal operating point </s>
+40853, <s> Transformation of Distributions </s>
+430, <s> Fence data description says NA means no fence </s>
+42237, <s> Univariate analysis box plots for numerical attributes </s>
+33446, <s> LGBMClassifier </s>
+938, <s> The 4 C s of Data Cleaning Correcting Completing Creating and Converting </s>
+30202, <s> we ve included method anova since it is not a classification but a regression problem </s>
+3516, <s> examine numerical features in the train dataset </s>
+37888, <s> Elastic Net Linear Regression </s>
+21501, <s> plot images from the training set of different conditions </s>
+27310, <s> Data Conversion </s>
+39439, <s> Model Submission </s>
+2300, <s> Changing the Column names starting with numbers later functions sometimes have issues </s>
+8382, <s> I due with Nan s later but by now I fill with miss </s>
+28367, <s> There are 221 unique words present in training set </s>
+25815, <s> it s time to combine them </s>
+34048, <s> Deal with the cyclic characteristic of Months and Days of Week </s>
+28463, <s> Column unitcnt </s>
+3671, <s> Observe the correction </s>
+33251, <s> Missing Values </s>
+41361, <s> According to this chart we can t say there is a clear correlation between garage quality and price </s>
+19300, <s> Data Interaction </s>
+10685, <s> MSE 1n i 1n yi yi 2 </s>
+24255, <s> Irrespective of the class passengers embarked in 0 and 2 have lower chance of survival </s>
+307, <s> our scores </s>
+19896, <s> Grouping training by shop id and Item id </s>
+7108, <s> We use logistic regression with the parameter we just tuned to apply bagging </s>
+18560, <s> Most passengers don t have cabin numbers </s>
+27323, <s> Model building </s>
+14531, <s> Cabin </s>
+27157, <s> KitchenQual Kitchen quality </s>
+35369, <s> Initialize Augmentations </s>
+20826, <s> The following extracts particular date fields from a complete datetime for the purpose of constructing categoricals </s>
+12357, <s> TotalBsmtSF Total square feet of basement area </s>
+21322, <s> T correlation plot th y m t s nh m bi n c s t ng quan m nh </s>
+40669, <s> Bi gram Plots </s>
+23676, <s> We can take a look at a few random images </s>
+78, <s> Cabin Feature </s>
+38013, <s> Aggregations over department </s>
+7942, <s> A Deep Learning approach Multilayer Perceptron MLP for regression </s>
+16042, <s> Yipee 75 </s>
+37639, <s> We ll also plot the distribution of predictions </s>
+2560, <s> Using the Leader board option to arrive at best model </s>
+39958, <s> We stack all the previous models including the votingregressor with XGBoost as the meta regressor </s>
+2917, <s> Preparing the datasets for Machine Learning </s>
+2908, <s> Fill the Age Feature with median </s>
+17652, <s> Voting Boosting models </s>
+21581, <s> Show fewer rows in a df </s>
+39788, <s> Lets look at distribution of logerrors with top 15 frequent regionidzips </s>
+21487, <s> Code for Loading Embeddings </s>
+15463, <s> Feature importance </s>
+18204, <s> Building the Model with Attention font </s>
+24883, <s> Creating An Additional Family Feature </s>
+26012, <s> One thing that was pinching me in my was the price movement </s>
+36818, <s> for training data </s>
+19569, <s> Please note that some lines with coco evaluator are commented out </s>
+15723, <s> Gaussian Na ve Bayes </s>
+27151, <s> Roof Styles Most of the house are having Gable and Hip roof styles and average sale price of 1 </s>
+14803, <s> Categorical Variable </s>
+40969, <s> Creating new column Daily Revenue </s>
+31366, <s> Fold Cross Validation </s>
+16870, <s> Residues of train dataset view </s>
+25186, <s> Reading the data </s>
+28504, <s> We build our model using high level Keras API which uses Teensorflow on the backened </s>
+22468, <s> Timeseries </s>
+37300, <s> N Grams </s>
+9788, <s> Since there are many features it can be hard to understand correlations from the heatmap </s>
+42774, <s> Fill Age </s>
+20304, <s> We are dealing with 143 types of product </s>
+4463, <s> Sex Mapping and Encoding </s>
+7598, <s> Boxplot SalePrice for Neighborhood </s>
+547, <s> Optimization of Classifier parameters Boosting Voting and Stacking </s>
+34488, <s> Write the functions for model optimizer activation and loss </s>
+40770, <s> Function used to plot 9 images in a 3x3 grid and writing the true and predicted classes below each image </s>
+31236, <s> Checking for correlation between features </s>
+2120, <s> Tuning Lasso </s>
+23293, <s> Outlier Detection </s>
+26181, <s> Catagorical Variables </s>
+21771, <s> REVIEW The values is assigned like float </s>
+7393, <s> Splitting in training and testing datasets </s>
+25673, <s> Improve the model </s>
+16345, <s> Create Submission File for Kaggle Competition </s>
+15528, <s> Embarked </s>
+6451, <s> Prediction on test data of different model </s>
+9858, <s> When we add count variable indexes start from </s>
+29713, <s> Boxplot allow us to have a better idea about the presence of outliers and how badly they may affect our predictions later </s>
+24447, <s> remove stopwords pass to lower add delimiter and more </s>
+38132, <s> Those that survived had paid in the fare range of </s>
+24982, <s> Filling NaNs in categorical columns using most frequent occurrence for each column </s>
+38944, <s> Effect of Competition Distance on stores performance </s>
+3930, <s> Checking Models Accuracy </s>
+747, <s> Running the CV for the ensemble regressor crashes it get an indication on one regressor </s>
+17460, <s> We are going to drop columns that we not use in Machine learning process </s>
+1640, <s> My final ensemble model is an average of Gradient Boosting and Elastic Net predictions </s>
+43024, <s> its time to turn everything into numbers </s>
+32568, <s> Save data with duplicates </s>
+40676, <s> let s try doing it for K 9 </s>
+26568, <s> Change the numbers in the image name to look at a few other cats and get an overview of what we are working with </s>
+43306, <s> and after a few hours of trial error I have chosen what appears to be the optimum way to handle nulls in the numerical columns </s>
+32526, <s> Train the Model </s>
+22286, <s> Submission To CSV </s>
+30867, <s> We can get a better sense for one of these examples by visualising the image and looking at the label </s>
+32730, <s> item id date block num and month have quite a predictive power </s>
+15456, <s> Family Survived </s>
+11760, <s> I took some suggestions from the documentation of scikit learn and some other helpful kernels here on Kaggle to tune our Gradient Boosting Regressor and Kernel Ridge Regressor </s>
+40480, <s> Perceptron </s>
+21127, <s> In this case obviously all dispersion measures are low cause the difference of 4 6 years in comparison to 2000 is small </s>
+1103, <s> Feature importance </s>
+40241, <s> Or as I like to call it smell the data before dinner </s>
+31830, <s> Under sampling Cluster Centroids </s>
+41400, <s> NAME INCOME TYPE </s>
+17468, <s> Mlle The term Mademoiselle is a French familiar title abbreviated Mlle traditionally given to an unmarried woman </s>
+41525, <s> A boxplot is a standardized way of displaying the distribution of data based on a five number summary median third quartile and maximum </s>
+40170, <s> The Core Data Science team at Facebook recently published a new procedure for forecasting time series data called </s>
+16660, <s> Analyzing Features </s>
+14826, <s> Ticket </s>
+443, <s> Lets check for any missing values </s>
+27517, <s> Modelling </s>
+3160, <s> Copy NeighborhoodBin into a temporary DataFrame because we want to use the unscaled version later on to one hot encode it </s>
+26450, <s> A negative value means that our model might work better if we do not consider the respective feature </s>
+2007, <s> Looks good </s>
+8100, <s> SibSp vs Survival </s>
+28212, <s> Calculate class weights </s>
+13124, <s> features analysis </s>
+975, <s> let s create a Light GBM Model </s>
+16004, <s> Floors </s>
+36589, <s> Use all training data learning rate </s>
+42072, <s> Each of the models are tuned using Random Search </s>
+41442, <s> Below is the 10 tokens with the lowest tfidf score which is unsurprisingly very generic words that we could not use to distinguish one description from another </s>
+17999, <s> Processing the training and test set seperately </s>
+7581, <s> Scatterplots SalePrice vs Area features </s>
+29835, <s> Load order data </s>
+3443, <s> Remember that ultimately we d like to use the Title information to impute missing values of Age </s>
+30964, <s> Learning Rate Domain </s>
+12789, <s> We extract the relevant feature from the test data as we have done before </s>
+20350, <s> I pick 0 </s>
+23527, <s> Load the Multilingual Encoder module </s>
+17449, <s> i like to split the data in a training and a test dataset just to be sure my AIs work </s>
+24666, <s> Write prediction </s>
+12979, <s> Survival probability of small families is almost three times higher than big families </s>
+40775, <s> Run the training and prediction code </s>
+30425, <s> Mixup 2 </s>
+41322, <s> The general metric for MNIST is a simple accuracy score </s>
+13283, <s> In machine learning Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes theorem with strong naive independence assumptions between the features Naive Bayes classifiers are highly scalable requiring a number of parameters linear in the number of variables features in a learning problem Reference Wikipedia </s>
+41063, <s> Basline Model Multilayer Perceptron </s>
+34484, <s> There is a fairly even distribution for each of the digit in our dataset which is actually good since there be no bias to a particular digit when our CNN is trained </s>
+11875, <s> Dealining with Scewed data </s>
+15001, <s> We have several object columns that we need to deal with Name Sex Ticket Cabin and Embarked </s>
+14813, <s> Pclass Survived </s>
+15238, <s> Missing values </s>
+17802, <s> And let s plot the Fare clusters grouped by the survived and not survived </s>
+43150, <s> Preparing Files to be given for training </s>
+20446, <s> Go to top font </s>
+38427, <s> Data augmentation </s>
+22096, <s> Load the Model with the Lowest Validation Loss </s>
+7518, <s> Permuation importance of features </s>
+41949, <s> Visualization Code </s>
+17359, <s> Model Evaluation and Comparison </s>
+1734, <s> Gender vs Embarked </s>
+26080, <s> You can use GPU to accelerate model training </s>
+38719, <s> Here is where we finally train the GAN </s>
+1428, <s> Logistic Regression </s>
+20122, <s> Feature Importance </s>
+27250, <s> Prepare the test set with the date information required for prediction </s>
+8932, <s> Remaining Features </s>
+9182, <s> YearRemodAdd </s>
+6272, <s> Embarked </s>
+36820, <s> Preparing the Data </s>
+2805, <s> get num feats Returns the numerical features in a data set </s>
+9162, <s> GrLivArea </s>
+17547, <s> Get data of Passengers with Pclass 3 having 0 Parch and 0 SibSp simliar to the requirement fare null value </s>
+6829, <s> Numerical Features </s>
+4881, <s> You can skip arguments other than x cmap is styling the heatmap </s>
+40931, <s> Callbacks Functions </s>
+21937, <s> Python </s>
+540, <s> New Feature Title </s>
+42722, <s> At first find the int features which have high correlation with target </s>
+15869, <s> Test model </s>
+8843, <s> For columns with no ordinal relationship we ll do some special processing later </s>
+26558, <s> Evaluation </s>
+29044, <s> Read image </s>
+8778, <s> Embarked And Sex </s>
+13721, <s> NOTE Found unmatching titles like Don Rev Mme Ms Major Lady Sir Mlle Col Capt Countess Jonkheer </s>
+17358, <s> The next model Random Forests is one of the most popular </s>
+28995, <s> Highly Correlated variables </s>
+5142, <s> Number of labels cardinality </s>
+27093, <s> to easily test the blended model first I saved all the models already fitted so I could retrieve the models without running all the process again and also to save modifications made on the models </s>
+14885, <s> Numeric Variables </s>
+32877, <s> XGBoost </s>
+15015, <s> Passengers from Cherbourg have the higher probability of surviving </s>
+3214, <s> Checking the learning process </s>
+18207, <s> Calculate OOF AUC font </s>
+27329, <s> Make a submission file </s>
+10592, <s> Gradient Boosting with params </s>
+663, <s> Naive Bayes </s>
+40945, <s> now let us prepare five learning models as our first level classification </s>
+32356, <s> Predictions </s>
+9678, <s> L1 and L2 regularization </s>
+18192, <s> expanding the aggregate </s>
+8314, <s> Imputing the missing categorical value with the most frequent value </s>
+13577, <s> Seting Cabin into Groups </s>
+20083, <s> Worst Sales Shop </s>
+21811, <s> Interest Level </s>
+25204, <s> Submission </s>
+3593, <s> Ridge </s>
+41023, <s> we submit the predictions to the leaderboard at the time I first tried doing this the old leaderboard with only 50 of test data was still in use </s>
+28155, <s> Load Dataset </s>
+22791, <s> Import Libraries </s>
+4386, <s> GarageArea feature look uniform distribution and linearly correaltion with target SalesPrice </s>
+27303, <s> Now without the most popular product ind cco fin ult1 </s>
+40309, <s> LSTM models </s>
+3667, <s> Splitting the data into categorial and numerical features </s>
+9688, <s> Coorelation matrix and removing multicollinearity </s>
+28158, <s> Train Model </s>
+26240, <s> Pseudo Labels for Model 2 </s>
+18326, <s> Using best lgbm model </s>
+41263, <s> The administrative regions and municipalities are distributed as follows </s>
+32095, <s> How to stack two arrays vertically </s>
+24719, <s> Show Model Accuracy as function of num PCA components </s>
+4388, <s> Most of the home doesn t have pool </s>
+39179, <s> apply it to some predictions </s>
+39193, <s> Descartando colunas que n o utilizaremos </s>
+6018, <s> Hasilnya memang overfit tapi ingat ini hanya base model saja lagipula perbedaannya hanya 1 2 saja di tingkat akurasi data validation dan test </s>
+1080, <s> Modeling </s>
+17888, <s> Getting title from name </s>
+18194, <s> Similarly there are products with 0 sales and only returns </s>
+1894, <s> SVC Model </s>
+2762, <s> Usually Categorical Variables are imputed with mode but it won t make sense in all cases so in order to make them loaclized based on Neighborhood and we can impute the data </s>
+39738, <s> Ticket </s>
+12215, <s> The grid search looks like this </s>
+39877, <s> stripplot It is easy to understand the overall appearance when there is not much data in data set </s>
+22464, <s> Waffle chart </s>
+5115, <s> Missing Value Counts </s>
+13978, <s> Preprocess Name </s>
+41339, <s> Categorical Features </s>
+10628, <s> Split Train and test Data </s>
+3442, <s> It s reasonable to put both of these in the Mrs category </s>
+29715, <s> Caution Correlation matrix won t help us detect non linear or multi variate feature relations though </s>
+16575, <s> Creating New Features </s>
+22962, <s> Examples of hair augmentation with TensorFlow </s>
+21353, <s> Specify Model </s>
+23318, <s> Add previous item sales as feature Lag feature </s>
+39228, <s> Lets remove correlated features from Santander database </s>
+2455, <s> We then use the transform function to reduce the training and testing sets </s>
+29906, <s> Convolutional Neural Network </s>
+33250, <s> Categorical Features </s>
+24118, <s> Final prediction </s>
+21792, <s> Logistic Regression </s>
+16922, <s> Random Forest Best Performing on LB </s>
+5895, <s> Label Encoding these </s>
+10335, <s> Imputation of Missing Values </s>
+14672, <s> Hyperparameter Tuning </s>
+15299, <s> Support Vector Machine Model </s>
+19661, <s> DFS with Selected Aggregation Primitives </s>
+20605, <s> Age </s>
+10127, <s> Building Training and Validating our Models </s>
+22355, <s> Using xgboost XGBRegressor to train the data and predict loss values on the test subset </s>
+14311, <s> Writing the Prediction </s>
+6151, <s> CatBoost </s>
+10785, <s> I want to set index as PassengerId </s>
+26905, <s> Create Submission File for approach 10 </s>
+33693, <s> Moving Average </s>
+14127, <s> Here in both training set and test set the average fare closest to 80 are in the C Embarked values </s>
+26511, <s> when all operations for every variable are defined in TensorFlow graph all computations be performed outside Python environment </s>
+40447, <s> Summary </s>
+21897, <s> Parameters </s>
+205, <s> Libraries and data </s>
+23451, <s> From this we can conclude that the registered are mostly people going on their jobs which explains the peaks at the start and end of office hours Clearly these people would have a more definite and predictible schedule and are therefore more likely to be registered In order to test this hypothesis we plot some more graphs </s>
+16950, <s> And voila We trained the model its time to save the predictions </s>
+21262, <s> Check Item Similarity </s>
+567, <s> Ada Boost </s>
+41491, <s> Use the new training data to fit the model predict and get the accuracy score </s>
+10729, <s> Basic logistic regression </s>
+21328, <s> Garage </s>
+20136, <s> Values in grayscale range from 0 to 255 </s>
+25672, <s> use the mean absolute error function to calculate the mean absolute error corresponding to the predictions for the validation set </s>
+30663, <s> Cleaning and lemmatization </s>
+3412, <s> look at FamilySize in more detail </s>
+40958, <s> we need to check for the data type as we can only enter ints floats to our model </s>
+9287, <s> New Features </s>
+35588, <s> create the final input array with 42000 images each with size 75 75 3 </s>
+37632, <s> This early stopping implementation is based on the following three implementations that I found </s>
+1624, <s> Linear Regression without regularization </s>
+25882, <s> Histogram Plots of number of words per each class 0 or 1 </s>
+13506, <s> Train Score </s>
+37217, <s> We can replace Quorans with Quora contributors </s>
+12099, <s> Replace NA missing values by most often in column only for columns with 2 and less NA values where do not make sense to invest hugely into Analysis </s>
+4421, <s> Make final prediction as combination of Ridge and Random Forest </s>
+11171, <s> We use the scipy function boxcox1p which computes the Box Cox transformation of 1 x </s>
+10935, <s> Dropping the columns with highest percentage of missing values </s>
+30138, <s> TFBertModel </s>
+32051, <s> We are all set </s>
+10307, <s> Clean the data </s>
+35632, <s> Our digits best friends aka Nearest Neighbors </s>
+40882, <s> now we have OOF from base or 0 level models models and we can build level 1 model meta model We have 5 base models level 0 models so we expect to get 5 columns in S train and S test S train be our input feature to train our meta learner and then prediction be made on S test after we train our meta learner And this prediction on S test is actually the prediction for our test set X test Before we train our meta learner we can investigate S train and S test </s>
+17528, <s> Extract titles from the Name property by using regular expression </s>
+6054, <s> Basement </s>
+31648, <s> MODEL 4 GRU </s>
+17671, <s> Analysis </s>
+35378, <s> Modelling </s>
+38552, <s> Checking the bad word features </s>
+28272, <s> Visualizing a digit from the training data as a 28 X 28 image </s>
+23480, <s> Checking your predictions </s>
+12378, <s> Bar Plot of all categorical data fields </s>
+43198, <s> Create submit file </s>
+36974, <s> Feature importance </s>
+2750, <s> The two lines can be merged into a single line of code as </s>
+2385, <s> Several ROC curves in a single plot new in sklearn </s>
+32635, <s> Formatting for submission </s>
+24986, <s> Removing numeric variables that are highly correlated </s>
+28095, <s> Forming Model </s>
+10812, <s> I am not sure </s>
+4417, <s> Ridge Regression with Cross Validation </s>
+41042, <s> In order for the notebook to run on Kaggle scripts we subsample the training data </s>
+22926, <s> It looks like the bulk of titles are either Mr Mrs or Miss which are the standard titles and the rest are what I call special titles </s>
+33771, <s> Normalization is performed on the Dataset to Scale the values within a Range </s>
+21759, <s> Missing values in Antiguedad </s>
+9126, <s> Alley </s>
+35415, <s> Make Predictions with Validation data </s>
+9586, <s> Scatter plot </s>
+4442, <s> By simply adding a log transformation my place in competition jumed almost 2000 forward </s>
+19125, <s> Feature interaction </s>
+10556, <s> MDS Plot </s>
+37204, <s> Averaged base models score </s>
+6407, <s> many Null Values </s>
+16251, <s> Training </s>
+19548, <s> Bag of Words Countvectorizer Features </s>
+14742, <s> There we have it </s>
+23652, <s> lets quickly make EDA with just one line of code for that we have we have dabl which tries to help make supervised machine learning more accessible for beginners and reduce boiler plate for common tasks </s>
+8018, <s> Survived </s>
+35187, <s> Visibly two major clusters are there </s>
+15111, <s> The Cabin feature itself as it stands now doesn t really provide all that useful information </s>
+15074, <s> Name Title </s>
+36671, <s> let s tokenize these messages </s>
+7139, <s> Family Size </s>
+31077, <s> Looking at the Kdeplot for GarageYrBlt and Description we find that data in this column is not spread enough so we can use mean of this column to fill its Missing Values </s>
+17703, <s> PREDICTION ON TEST DATASET </s>
+28593, <s> FireplaceQu </s>
+8414, <s> with our best predictor we can cut only two outliers use it and substitute all others bath features with a existence indicator </s>
+12909, <s> Check the shape of the datasets </s>
+11141, <s> for r squared calculations we need to limit the comparison to only the train data since the test data does not have a Sales Price to compare to </s>
+24299, <s> Reshaping and Scaling data </s>
+13748, <s> Create Feature Engineering </s>
+15739, <s> We can create new fature from NAME </s>
+43210, <s> Using CNN </s>
+302, <s> gotta encode all the object types </s>
+13158, <s> Label Encoding AgeBin Class </s>
+7891, <s> I explore the effects of the other featuers independently </s>
+12013, <s> Desicion tree is a simple tree based models which divides the predictions data into several desicion boundaries based on some set of conditions and approximate the predictions on new data </s>
+4679, <s> begin with the most correlated feature OverallQual </s>
+20680, <s> Evaluate the Model </s>
+6755, <s> Checking Skewness for feature 3SsnPorch </s>
+24147, <s> Reduce the Problem Size </s>
+502, <s> As indicated by the Kaggle information word reference both SibSp and Parch identify with going with family </s>
+38470, <s> Download and Preprocess </s>
+2260, <s> SibSp and Parch </s>
+19831, <s> Gaussian Transformation </s>
+10767, <s> LightGBM </s>
+24011, <s> FNN </s>
+38472, <s> Model Build Train Predict Submit </s>
+22765, <s> look at the cleaned text once </s>
+36746, <s> Concatenate daysBeforeEvent feature with our main dataframe dt </s>
+7286, <s> GaussianNB Model </s>
+18768, <s> This is a simple 3D CNN architecture for classification </s>
+38023, <s> what are insincere topics where the network strongly believe to be sincere </s>
+1050, <s> Log transform skewed numeric features </s>
+42561, <s> Sigmoid function in plain numpy </s>
+15235, <s> Prediction </s>
+26988, <s> Run model </s>
+7864, <s> The first step is the detect in which columns there are non valid values </s>
+1532, <s> Looking at the Test Data </s>
+7676, <s> Feature engineering </s>
+21536, <s> Decision Tree </s>
+27977, <s> violinplot </s>
+19911, <s> Revenues data featuring </s>
+34176, <s> Visualizing Layer 3 </s>
+9260, <s> Moving ahead to another variables </s>
+29904, <s> Cross Validation </s>
+38987, <s> Training Model </s>
+31713, <s> Fatalities </s>
+22608, <s> xgboost </s>
+25590, <s> RandomForest </s>
+32542, <s> check any missing value </s>
+6673, <s> Random Forest Classification </s>
+30389, <s> Train Test split </s>
+4693, <s> Here skewness is our enemy since we gonna work with linear models </s>
+14290, <s> Understanding Feature Importance </s>
+6789, <s> Cabin </s>
+17899, <s> Lets look at the Feature Importance plot </s>
+7849, <s> I recently had to deal with multilabel data and had the same problem and to overcome this I made a fairly simple funtion for chain classification and you should also be able to create your own functions and classes </s>
+32787, <s> Binary Encoding </s>
+13873, <s> We fit and predict on the best SVC model that we derived based on the scores </s>
+12786, <s> Compute Predictions </s>
+20099, <s> Christmas flag </s>
+18975, <s> Display more than one categorical variables distribution in a parallelized view </s>
+1864, <s> XGBoost </s>
+3971, <s> View Model Performance </s>
+23506, <s> Add image augmentation </s>
+27598, <s> Adding Hidden Layers </s>
+30971, <s> since we have the best hyperparameters we can evaluate them on our test data </s>
+6338, <s> We split them to </s>
+11787, <s> Name Title </s>
+17800, <s> And let s plot the Title grouped by the survived and not survived </s>
+36796, <s> Even more you can do things like get the definition of a word </s>
+15577, <s> Categorical features </s>
+26686, <s> Term total credit annuity </s>
+24456, <s> ABSTRACT from the Paper Edge Based Color Constancy </s>
+40976, <s> Total Daily Revenue </s>
+15366, <s> Dropping unnecessary columns from the dataset </s>
+37444, <s> Tensorflow roberta model font </s>
+3999, <s> We write a function that take pairs from the array with errors many times and at the end calculate the expectation </s>
+4233, <s> Data Model Selection </s>
+15638, <s> Select Columns of Interest </s>
+21149, <s> We had some fun with LASSO penalty parameter adjustment </s>
+9352, <s> Generate new input files for the training and test data with predicted age </s>
+11672, <s> It looks like passengers that travelled in first class were more likely to survive </s>
+24843, <s> Model Ensemble </s>
+18057, <s> It s time for making our prediction </s>
+24140, <s> Logistic Regression Model </s>
+28758, <s> Residual Plots </s>
+13344, <s> Creating and normalizing matrices for our model div </s>
+40059, <s> use the last dev dataset to yield some insights about predictions and weaknesses of our model </s>
+7039, <s> Type of alley access </s>
+4285, <s> Sale Price Over Time Period </s>
+15816, <s> from this we can inferred that the survival rate decreases with the class </s>
+37407, <s> Since the LightGBM model does not need missing values to be imputed we can directly fit on the training data </s>
+2893, <s> Below we have applied BoxCox transformation for each numerical features when we input the feature values to boxcox function it return lambda values which we use to transform each non gaussian distribution to gaussian distribution </s>
+29058, <s> Template image </s>
+8224, <s> As understood from the target column the box plot depicts some of the outliers </s>
+21627, <s> Pandas datetime lot s of examples </s>
+30251, <s> Convert the dataframes into XGB readable format </s>
+25814, <s> let s add more penalty when our argmax prediction is far away from our target </s>
+32633, <s> or to tune hyper parameters </s>
+30631, <s> Relationship between wealth and survival rate </s>
+12903, <s> We do a grid search to find the best parameters </s>
+296, <s> Cabin Age and Embarked have missing values ranging from 0 </s>
+9835, <s> Random Forest </s>
+858, <s> Of all passengers in df train how many survived how many died </s>
+36633, <s> let s remove skewness using BoxCox transform </s>
+37521, <s> Parch Survived </s>
+12783, <s> Train Test split </s>
+19574, <s> handle item price outliers </s>
+26281, <s> Data preparation for Machine learning </s>
+36376, <s> For the most part our labels look to be pretty evenly distributed </s>
+34960, <s> Plots </s>
+9746, <s> Fare </s>
+6394, <s> Missing Data in percentage </s>
+2657, <s> Convert all the data into numeric form </s>
+27156, <s> Heating Type of heating </s>
+40395, <s> Fold 2 </s>
+7711, <s> To reduce the skewness we ll take log of SalePrice </s>
+2746, <s> If we find that most of the values of a column is missing we might want to go ahead and drop the column altogether </s>
+36449, <s> Model generation </s>
+3287, <s> Combine these models for final prediction on test set </s>
+41004, <s> confirm our classifier block matches Pytorch s resnet implementation </s>
+37645, <s> manager id </s>
+14762, <s> Logistic Regression </s>
+18843, <s> LDA Implementation via Sklearn </s>
+9166, <s> Garage Cars </s>
+17385, <s> we can compare the performance of the main model lin clf and the pseudo model as follows </s>
+23742, <s> Random Forest Classifier </s>
+23532, <s> Here I follow The idea is that some keywords with very high probability signal about disaster tweets </s>
+25451, <s> CatdogNet 16 </s>
+21094, <s> Model performance </s>
+28227, <s> Below we juxtapose the original input image with the correponding generate image from the neural network </s>
+36217, <s> 259 missing values for LotFrontage we use SimpleImputer to fill them with averaged values </s>
+16456, <s> We take log transform </s>
+16459, <s> People travelling alone are likely to less survive </s>
+1811, <s> Creating New Features </s>
+2347, <s> CatBoost </s>
+8318, <s> Performing cross validation of different models on 5 folds of training data </s>
+12044, <s> For example let s look at scatter plot of SalePrice and Lot Frontage </s>
+797, <s> Gini Impurity </s>
+35380, <s> Data Preparation </s>
+1846, <s> Significance of Discrete Numeric Features for SalePrice </s>
+26683, <s> split categorical discrete and numerical features </s>
+17750, <s> Converting categorical variable labels </s>
+32038, <s> Since our dataset is not imbalanced we can use ROC curve to find the optimal threshold we compute the area under the ROC curve ROC AUC to get an idea about the skill of the classifier In case of highly imbalanced datasets it is better to use precision recall curves </s>
+8883, <s> The 4th feature which we be adding is the Season feature </s>
+38640, <s> Data Gathering </s>
+30575, <s> To make sure the function worked as intended we should compare with the aggregated dataframe we constructed by hand </s>
+9090, <s> This leads me to believe that I should have a column for houses that have 1945 Newer styles </s>
+37401, <s> Admit and Correct Mistakes </s>
+42851, <s> Data visualization </s>
+21064, <s> Defining Model </s>
+40166, <s> As mentioned before we have a strong positive correlation between the amount of Sales and Customers of a store </s>
+22637, <s> Model 2 Mean Model </s>
+21530, <s> look at the connections for the first 100 rows of positive responses </s>
+17637, <s> Age grp Fare grp </s>
+35759, <s> Base models </s>
+9220, <s> Train the KNN </s>
+28741, <s> Getting the best parameters </s>
+11135, <s> lets use a log y scale </s>
+1, <s> Based on the correlation heatmap in the EDA section its very clear that LotFrontage is correlated with LotArea and LotFrontage </s>
+10235, <s> check one more time for missing values </s>
+33893, <s> agregating POS CASH balance features into previous application dataset </s>
+15044, <s> Name </s>
+30922, <s> Real values of testdata </s>
+18696, <s> create a ClassificationInterpretation object </s>
+42005, <s> filtering by multi conditions in a column </s>
+33267, <s> Set how is our prediction </s>
+17344, <s> KNN </s>
+3493, <s> Model 4 Gradient Boosted Tree Classifier </s>
+38524, <s> We shall take the maximum length to be 150 since we shall be concatenating text and sentiment columns There is a very helpful function called encode plus provided in the Tokenizer class which can prove to be real handly It can seamlessly perform the following operations </s>
+15921, <s> Model Training and Selection </s>
+23948, <s> Converting all the categorical columns into numerical </s>
+19165, <s> SVD on tf idf on unigrams for iten description </s>
+36578, <s> On the other hand the age distribution is similar for both genders </s>
+13128, <s> Survival by Pclass </s>
+94, <s> Age and Survived </s>
+16537, <s> combine the Parch and SibSp feature to form a better Family size feature </s>
+5304, <s> Partitioning a dataset in training and test sets </s>
+15565, <s> It is also natural to assume that Bowen Miss </s>
+19703, <s> take a look at the distribution of the target value </s>
+26998, <s> Some characters are unknown </s>
+10220, <s> As there is no direct releation between Embarked and Survived variables we can drop this from our feature list </s>
+1834, <s> LotFrontage NaN Values </s>
+12084, <s> Distribution study </s>
+14640, <s> make sure there are no null values left </s>
+18997, <s> Make a submission </s>
+19265, <s> LSTM for Time Series Forecasting </s>
+3981, <s> Get target </s>
+28626, <s> ExterCond </s>
+24546, <s> Number of products by seniority group </s>
+31214, <s> Target Column </s>
+28211, <s> Understanding useful metrics </s>
+6686, <s> Zoomed Heat Map </s>
+14650, <s> Missing Ratio </s>
+2645, <s> There are 177 NaN values in Age 686 NaN values in Cabin column </s>
+24246, <s> Gender Sex </s>
+4246, <s> We can optimize Scikit Learn hyperparameters such as the C parameter of SVC and the max depth of the RandomForestClassifier in three steps </s>
+2198, <s> Applying the outliers to Age SibSp Parch and Fare columns </s>
+19593, <s> item and city code </s>
+6191, <s> Models without Hyperparameter Tuning </s>
+41209, <s> len prediction len GT </s>
+8065, <s> SalePrice per square foot </s>
+23910, <s> Table for scores </s>
+12658, <s> Validate with KFold </s>
+1709, <s> There are a lot of missing values and some of the columns like Xylene and PM10 have more than 50 of the values missing </s>
+36047, <s> Italy </s>
+36046, <s> Classmethod and staticmethod </s>
+16724, <s> SibSp </s>
+30077, <s> We only used a subset of the validation set during training to save time </s>
+26880, <s> Include only numerical columns and impute columns with missing values </s>
+977, <s> Learning Curve </s>
+17366, <s> we use the classifer that did the best job to make predictions on our test set </s>
+35165, <s> Plot the model s performance </s>
+19127, <s> Statistics </s>
+9244, <s> Grouping the data </s>
+6416, <s> Lets handle Skewness before moving to Bi Variate Analysis </s>
+2679, <s> ANOVA for Regression </s>
+14602, <s> Logistic Regression </s>
+7568, <s> describe for categorical features </s>
+31063, <s> Domain </s>
+18694, <s> That s a pretty good fit </s>
+15242, <s> Fare </s>
+1351, <s> We can not create FareBand </s>
+43319, <s> We have to impute the missing values </s>
+38816, <s> Inference </s>
+13289, <s> We tuning the hyperparameters of the LGBMClassifier model using the HyperOpt and 10 fold crossvalidation </s>
+11393, <s> we have two missing values in Embarked and one in Fare </s>
+36732, <s> Importing models and other required libraries </s>
+1613, <s> One Hot Encoding the Categorical Features </s>
+40697, <s> NOW RANDOM FORETS REGRESSOR GIVES THE LEAST RMSLE HENCE WE USE IT TO MAKE PREDICTIONS ON KAGGLE </s>
+14359, <s> Crosstab and FactorPlot Survived vs Pclass </s>
+7301, <s> Observation </s>
+1739, <s> Notice that for Parch people travelling with 3 4 5 6 parents children aboard are very little </s>
+42172, <s> We can obtain the number of axes and dimensions of the tensor train images from our previous example as follows </s>
+1659, <s> Another categorical variable it looks a bit complicated </s>
+2744, <s> Just as isnull returns the number of null values notnull helps in finding the number of non null values </s>
+18356, <s> regression tree </s>
+1329, <s> Correlating numerical and ordinal features </s>
+8737, <s> Living Area </s>
+4416, <s> Splitting Data back to Train test </s>
+18305, <s> item cnt day features </s>
+37478, <s> TF IDF stands for term frequency times inverse document frequency </s>
+15340, <s> Making and Printing our predictions </s>
+39108, <s> Sex </s>
+37711, <s> Data Augmentation small important step small </s>
+16908, <s> fillna Age Child </s>
+15776, <s> ML models </s>
+10689, <s> First visualization </s>
+5118, <s> Data Preprocessing </s>
+25757, <s> Those start looking really similar to each other </s>
+19465, <s> Imports and useful functions </s>
+15291, <s> Creating categories based on the Title of the passangers </s>
+11073, <s> Models </s>
+26021, <s> There are some variables that I came across are categorical values </s>
+7372, <s> I concatenate all 3 tables and for convenience reset the index using the parameter ignore index True </s>
+43168, <s> PCA </s>
+39740, <s> Well that doesn t look promising </s>
+1702, <s> Finding reason for missing data using a Heatmap </s>
+4820, <s> Normality Assumption AS already mentioned we ought to make normality assumptions when dealing with regression </s>
+8233, <s> I divided dataset into 70 30 ratio so that we can test our scenarios </s>
+24763, <s> Kernel ridge regression </s>
+16635, <s> Missing values </s>
+15655, <s> MLP </s>
+1223, <s> Encode categorial features can and should be replaced </s>
+40046, <s> now chose a model structure </s>
+42110, <s> Creating Prediction </s>
+41911, <s> Making sure fnames and labels are in order </s>
+40052, <s> If you like to search for optimal min and max learning rates just choose your values and set find lr True </s>
+33232, <s> As the next step we pass an image to this model and identify the features </s>
+35764, <s> Kernel Ridge Regression </s>
+39087, <s> Searching for optimal threshold </s>
+16119, <s> Decision Tree </s>
+2289, <s> ROC AUC Curve </s>
+8621, <s> GrLivArea vs SalePrice </s>
+514, <s> Accuracy Comparison through Plots </s>
+25877, <s> Word Frequency </s>
+18137, <s> Loading data </s>
+16873, <s> Sex vs Survival </s>
+37157, <s> Predicting the activation layer feature maps using the img tensor below </s>
+28778, <s> look at the distribution of Meta Features </s>
+24538, <s> create income groups </s>
+26415, <s> These distributions for the real fare per passenger now strongly correlate with Pclass and look more natural </s>
+35153, <s> Plot the model s performance </s>
+2824, <s> optimizing hyperparameters of a random forest with the grid search </s>
+2833, <s> Model with plots and accuracy </s>
+19555, <s> In order to avoid overfitting problem we need to expand artificially our handwritten digit dataset </s>
+14554, <s> Embarked font </s>
+27967, <s> Reducing memory size by 50 </s>
+20146, <s> find out which features are highly correlated to sale price </s>
+25000, <s> Renaming the categorical columns in the format feature name category name </s>
+10856, <s> Extracting the column names of the numerical and categorical features separately and filling the rest of the missing values </s>
+37319, <s> First select the first layer filters parameter </s>
+35137, <s> Is there an increase in promo if it is a School Holiday </s>
+12756, <s> Scale our data </s>
+32059, <s> This returns an array containing the F values of the variables and the p values corresponding to each F value </s>
+27080, <s> Thus we have converted our initial small sample of headlines into a list of predicted topic categories where each category is characterised by its most frequent words The relative magnitudes of each of these categories can then be easily visualised though use of a bar chart </s>
+36681, <s> Model Training </s>
+13557, <s> Fare mean by Pclass </s>
+24372, <s> Max floor </s>
+18413, <s> Training Evaluation and Prediction </s>
+11940, <s> We are trying to remove every Null value with the best possible alternative </s>
+7754, <s> Log Transform </s>
+16519, <s> No of female survivor is much more then the male survivor </s>
+18516, <s> Check for null and missing values </s>
+12055, <s> Linear Regression </s>
+30533, <s> Exploration of Bureau Balance Data </s>
+11280, <s> Collinearity can happen in other places too </s>
+40139, <s> Kick off the training for the model </s>
+109, <s> family size </s>
+34263, <s> Normalize </s>
+35091, <s> True Positives TP </s>
+20110, <s> Item count mean by month city for 1 2 3 6 12 lag </s>
+21026, <s> Modelling </s>
+546, <s> Standard Scaler </s>
+15200, <s> Family Size </s>
+7374, <s> Before I start extracting surname and name codes note that in the Kaggle dataset the title of Mrs </s>
+37356, <s> PClass vs Survived </s>
+1276, <s> Feature Embarked 3 2 4 </s>
+12651, <s> to tune all the hyper parameters </s>
+19621, <s> CNN MODEL </s>
+14707, <s> OBJECTIVE 2 MACHINE LEARNING </s>
+31689, <s> Plotting actual class with images </s>
+1725, <s> Age Distribution </s>
+17711, <s> Another one thing People with family size more than 7 didn t survive </s>
+12527, <s> get started </s>
+19639, <s> For now just drop duplicates </s>
+17020, <s> Create cabin type feature </s>
+22669, <s> Most Common Bigrams </s>
+33744, <s> A Typical CNN structure one CNN layer </s>
+21796, <s> Random Forest </s>
+20556, <s> Model compilation </s>
+32102, <s> How to make a python function that handles scalars to work on numpy arrays </s>
+10596, <s> LightGBM </s>
+31065, <s> File Format </s>
+36063, <s> Predict Monthly </s>
+11304, <s> Ensembling </s>
+32952, <s> plot the distribution of difference between public score and private score </s>
+32571, <s> Domain </s>
+11322, <s> Sex </s>
+40438, <s> Creating Callbacks </s>
+5076, <s> How about log transforming the skewed distribution of SalePrice Will we get a better score </s>
+39258, <s> This category covers roughly between and of all realisations in the dataset </s>
+33284, <s> Family Survival Detector </s>
+4546, <s> Concatinating train and test data </s>
+9218, <s> K Nearest Neighbors based Model and Prediction </s>
+30992, <s> First we test the cross validation score using the best model hyperparameter values from random search </s>
+15177, <s> Update dataframe with Age </s>
+31611, <s> RANDOM FOREST ALGORITHM </s>
+40007, <s> Insights </s>
+410, <s> Random Forest </s>
+29859, <s> List out all the data elements containing the specified string </s>
+29921, <s> We can do this for all of the hyperparameters </s>
+298, <s> Getting the data </s>
+33157, <s> Alternative explanation </s>
+37609, <s> Filling Missing Values </s>
+3737, <s> Will use a simple logistic regression that takes all the features in X and creates a regression line </s>
+9648, <s> Looks good and well defined for different numbers of rooms except the one with 11 rooms </s>
+41784, <s> CNN model With Batch normalization </s>
+4996, <s> We note that the distribution is positively skewed to the right with a good number of outliers </s>
+2323, <s> Generating a Confusion Matrix </s>
+35335, <s> Compiling the Keras Model </s>
+6937, <s> Visualize correlation coefficients to target </s>
+2301, <s> Pandas Check for NA s in a column </s>
+8073, <s> impute all incongruencies with the most likely value </s>
+34701, <s> Averaging the extrapolated values </s>
+16976, <s> Split them to train and test subsets </s>
+18077, <s> The maximum area of bounding box </s>
+16245, <s> Submitting the predictions </s>
+31999, <s> that our model building is done it might be a good idea to clean up some memory before we go to the next step </s>
+33285, <s> Title Extractor </s>
+570, <s> VotingClassifier </s>
+2112, <s> It looks we found something the bigger the house the more it costs but the bigger the rooms the less the house is expensive </s>
+8433, <s> Lot Frontage Check and Fill Nulls </s>
+42553, <s> ROC </s>
+7830, <s> Jointplots </s>
+33797, <s> By itself the distribution of age does not tell us much other than that there are no outliers as all the ages are reasonable </s>
+33073, <s> Submission </s>
+40646, <s> Make Data Model Ready </s>
+23572, <s> It looks like our model predicts reasonably well </s>
+14877, <s> We can also use the x bin argument to clean up this figure and grab the data and bin it by age with a std attached </s>
+916, <s> Deviate from the normal distribution </s>
+24475, <s> One hot encode the label values digits from 0 9 </s>
+8064, <s> MSZoning </s>
+12885, <s> Gender and Embarked </s>
+23368, <s> Some of the Correctly Predicted Classes </s>
+12075, <s> Avoiding Multicollinearity </s>
+14767, <s> Our Logistic Regression is effective and easy to interpret but there are other ML techniques which could provide a more accurate prediction </s>
+26667, <s> previous application </s>
+21816, <s> Together </s>
+4185, <s> Imputing missing values </s>
+18753, <s> We can also rename a column as follows if we wish to </s>
+2470, <s> Adding Family Size </s>
+30864, <s> Reshape </s>
+233, <s> Libraries and Data </s>
+38020, <s> Finish </s>
+32397, <s> Here we make predictions using the model we trained </s>
+9750, <s> I decide to fill missing data in Age and Fare by median value </s>
+26045, <s> We can also create a small function to calculate the number of trainable parameters in our model in case all of our parameters are trainable </s>
+22177, <s> do some cross validation to check the scores </s>
+41268, <s> Diverging Colormap </s>
+29383, <s> ol DATA PREPROCESSING span nbsp nbsp </s>
+15172, <s> This is our accuracy score </s>
+23212, <s> Evaluating Different Ensembles </s>
+560, <s> Random Forest </s>
+2461, <s> SelectPercentile </s>
+12437, <s> First pipeline with xgboost </s>
+32348, <s> Treating text lowers the length of texts and therefore allows us to make a model with less parameters and a shorter training time </s>
+13495, <s> Embarked </s>
+691, <s> Training the model and adjusting precision </s>
+20570, <s> Family Size denotes the number of people in a passenger s family </s>
+4530, <s> NaN 5 Pandas fillna NaN NaN Age Fare </s>
+8377, <s> Drop em up </s>
+41418, <s> Split train validation set </s>
+14834, <s> Ensemble Modeling </s>
+24521, <s> I check customer distribution by country </s>
+5252, <s> Embedded Feature Selection Selecting Features From a Model </s>
+632, <s> Family </s>
+33840, <s> Bar Chart </s>
+7570, <s> Barchart NaN in test and train </s>
+27830, <s> Check nuls and missing values </s>
+11295, <s> One Hot Encoding for categorical variables with no order </s>
+7810, <s> Evaluate Bayesian Ridge Model </s>
+11500, <s> Transforming some numerical variables to categorical </s>
+23746, <s> Tuning HyperParameters </s>
+14918, <s> Ticket </s>
+36059, <s> Feature Hour </s>
+28674, <s> Utilities </s>
+37906, <s> Light GBM Regressor </s>
+37705, <s> Looks like numbers but a little different than before because here we used much much more data </s>
+21671, <s> Catboost </s>
+16328, <s> SibSp Parch Feature </s>
+8667, <s> we can get rid of empty values in cols </s>
+28377, <s> Prepare for Submission </s>
+16931, <s> about half of the passengers are on the third class </s>
+16954, <s> Age </s>
+26091, <s> Adding Callbacks </s>
+19219, <s> Naturally we have more data in the first data set because it s possible no changes in a product </s>
+34821, <s> Deep Convolutional Neural Network is a network of artificial neural networks </s>
+31903, <s> Build the model </s>
+25189, <s> visualize how are images stored in matrix form </s>
+16706, <s> try to create a fare band </s>
+5015, <s> De duplication </s>
+2308, <s> Pandas how to add columns together numeric </s>
+34693, <s> Mean item price over all shops and months and current deviation from its value </s>
+36669, <s> Woah 910 characters let s use masking to find this message </s>
+8348, <s> Survival by Sex and Age </s>
+1549, <s> We then load the data which we have downloaded from the Kaggle website is a link to the data if you need it </s>
+23342, <s> Modeling </s>
+14886, <s> Data Visualization and Missing Values </s>
+19286, <s> Write output to CSV file </s>
+12600, <s> Random Forest using grid search </s>
+17349, <s> Voting Hard Soft </s>
+18586, <s> We re going to use a pre trained model that is a model created by some one else to solve a different problem Instead of building a model from scratch to solve a similar problem we ll use a model trained on ImageNet million images and classes as a starting point The model is a Convolutional Neural Network CNN a type of Neural Network that builds state of the art models for computer vision We ll be learning all about CNNs during this course </s>
+17399, <s> Title wise Survival probability </s>
+38590, <s> Splitting the data into training and validation sets </s>
+18909, <s> Cabin Feature </s>
+18580, <s> Here we import the libraries we need </s>
+36436, <s> Check out where my output files reside </s>
+15672, <s> Gradient Boosting </s>
+43253, <s> Importando arquivos </s>
+7898, <s> When dropping the colmuns in the train dataset it would be neccesary to do the same in the test dataset </s>
+37377, <s> Very well </s>
+33864, <s> Backup data </s>
+8606, <s> Lets move on to checking skewness found in the feature variables </s>
+30637, <s> We should replace rare titles with the more common ones and create a category for high status titles </s>
+15905, <s> EDA Relationships between features and survival </s>
+11704, <s> Load Data </s>
+27320, <s> Creating more custom images by using Data Augmentation </s>
+20084, <s> Top Sales Item Category </s>
+1041, <s> Encoding categorical features </s>
+19369, <s> Frequency distribution of attributes </s>
+7277, <s> Title Feature </s>
+40294, <s> Start our CNN model </s>
+11895, <s> In here I use log function to process the target SalePrice </s>
+25896, <s> Topic Modelling </s>
+31429, <s> Checking Formula </s>
+21857, <s> Normalization </s>
+35168, <s> Compile 10 times and get statistics </s>
+38202, <s> Submitting the Test Predictions </s>
+33654, <s> Correlation matrix </s>
+41238, <s> Random Forest classifier for non text data </s>
+7357, <s> EDA and preprocessing </s>
+15708, <s> Correlation matrix </s>
+12391, <s> Testing set </s>
+955, <s> Creating NumPy arrays out of our train and test sets </s>
+4525, <s> Trying XGBoost </s>
+5933, <s> Finding skewed columns </s>
+41049, <s> Days Prior Order </s>
+29336, <s> With the PCA variables </s>
+2335, <s> Train Test Split </s>
+41006, <s> Creating Resnet34 model </s>
+3034, <s> Submission </s>
+8373, <s> KNeighbours </s>
+39309, <s> TRAINING FOR PREDICTION </s>
+28486, <s> We can reduce memory for columns only having type int and type float or columns having numeric values </s>
+31392, <s> We can assign each embarked value to a numberical value for training later </s>
+2021, <s> Here we average ENet GBoost KRR and lasso </s>
+18723, <s> let s export our model as a pickle </s>
+16534, <s> let s plot and analyse how the Passenger Class affects survival chances of a person </s>
+3508, <s> Construct the best model fit it make predictions on the training set and produce a confusion matrix </s>
+15210, <s> Feature selection and preprocessing </s>
+18423, <s> save the oof predictions here as well </s>
+40257, <s> Overall Quality </s>
+16024, <s> Actually we can construct useful feature from Name and Ticket </s>
+24142, <s> Multinomial Naive Bayes </s>
+36900, <s> Investigating false predictions </s>
+990, <s> gotta tune it </s>
+12556, <s> Decision Tree </s>
+2089, <s> Before getting insights from the data let s take the final step of the instructions that came with the data and have a general cleaning </s>
+1962, <s> now every thing almost ready only one step we converted the catergical features in numerical by using dummy variable </s>
+6729, <s> OverallQual Vs SalePrice </s>
+20907, <s> Create checkpoint callback </s>
+8425, <s> Identify the Most Common Electrical </s>
+39006, <s> Function to generate random minibatches of X and Y in synch </s>
+5041, <s> LotArea looks relevant and is one of the most skewed features </s>
+10782, <s> Uniting the pipelines </s>
+9709, <s> Feature selection using Lasso This is done just for demonstaration purpose </s>
+6014, <s> Automl yang ada di Jcopml hanya perlu memisahkan data numeric dan categoric </s>
+29847, <s> drop the coulmns that have more than 20 missing values </s>
+31780, <s> Convert categorical features </s>
+18595, <s> Since we ve got a pretty good model at this point we might want to save it so we can load it again later without training it from scratch </s>
+4698, <s> Among the missing features there is one that is difficult to manage </s>
+30579, <s> The sum column records the counts and the mean column records the normalized count </s>
+14847, <s> Name </s>
+13040, <s> nd approach to treat the Age feature </s>
+10991, <s> Below parameters are set after grid search </s>
+11765, <s> Our score improved to </s>
+16939, <s> the most important features are if you are a man or not how much you paid for your ticket and your family size </s>
+8833, <s> Model Creation </s>
+10098, <s> check the null values fill it </s>
+11064, <s> Filling missing values in both the test and the train data from those calculated from the training data </s>
+5011, <s> Categorical Features </s>
+7055, <s> Miscellaneous feature not covered in other categories </s>
+37366, <s> we can say that fare is correlated with Passenger class </s>
+20649, <s> Multi Channel n gram CNN Model </s>
+34386, <s> Seasons </s>
+56, <s> Maximum Voting ensemble and Submission </s>
+2003, <s> That looks much better </s>
+32231, <s> The special thing about TesnorFlow is that you can define operations and computations as variables </s>
+1280, <s> Features SibSip Parch 3 2 5 </s>
+10602, <s> Step 4 Define Model Parameters </s>
+23420, <s> Before we begin with anything else let s check the class distribution </s>
+753, <s> Obtain the Latent Representations </s>
+41518, <s> Output data for Submission </s>
+37613, <s> Creating features </s>
+2483, <s> How many Survived </s>
+20599, <s> Walk Through Each Feature One by One </s>
+8614, <s> Even after doing this we still have so many feautures which are filled with null values and luckily their missing percentage is low </s>
+25207, <s> Analyze Overall Quality OverallQual highest correlation with SalePrice </s>
+5145, <s> Separate Dataset into Train and Test </s>
+29050, <s> A value make the image darker while values makes the image brighter </s>
+18095, <s> For EDA on image datasets I think one should at least examine the label distribution the images before preprocessing and the images after preprocessing </s>
+3677, <s> Creating new features </s>
+27228, <s> Extract the intermediate output from CNN </s>
+41917, <s> Improving our model </s>
+24024, <s> Some conclusions that we may make from the plot below </s>
+1693, <s> Listing unique values in categorical columns UniqueValues </s>
+13900, <s> Insights from graph </s>
+780, <s> Models include </s>
+40710, <s> Preparing Training and Validation data </s>
+9981, <s> plotting catogrical values with repect to their count </s>
+33024, <s> CNN </s>
+4601, <s> Pool </s>
+5880, <s> ANOVA test </s>
+29744, <s> Submission </s>
+8378, <s> Add non AI knowledge </s>
+4870, <s> Combining all area features to a single feature </s>
+41055, <s> Cross Validation Scores for the different data sets using Gradient Boosting Regressor </s>
+11390, <s> Cleaning and imputation </s>
+18924, <s> Creating Submission File </s>
+36700, <s> Model Summary </s>
+26023, <s> Practically the larger the area the more the price of the property is As in our data Garage and Area related variables have significant relationship with SalePrice Target Variable I came to know that it would be good to make a feature engineering on that attribute </s>
+10037, <s> Look thier is 1 captain 1 Don 2 Col 2 Major 7 Doctor in data set </s>
+28241, <s> Ensemble modeling is a process where multiple diverse models are created to predict an outcome either by using many different modeling algorithms or using different training data sets </s>
+37572, <s> ID variable </s>
+19152, <s> Check the distribution of TARGET variable </s>
+4099, <s> Age is not integer </s>
+10068, <s> Amount of survived small families are considerbaly higher with respect to large families and singles </s>
+10626, <s> Missed manipulation of columns code SibSp code code Parch code </s>
+3715, <s> BsmtCond BsmtQual FirePlaceQu GarageType GarageCond GarageFinish GarageQual </s>
+33607, <s> since we are doing multi class classification we have to one hot encode our labels to be able to pass it through our model </s>
+4526, <s> Using XGBoost for stacking also </s>
+6079, <s> Name </s>
+7285, <s> Gradient Boosting </s>
+23260, <s> Bivariate Analysis </s>
+5208, <s> We can check the score of the model on the x test before predicting the output of the test set </s>
+34606, <s> Fit the XGBoost model </s>
+26315, <s> Regression Evaluation Metrics </s>
+35357, <s> Creating Sample Submission File </s>
+38983, <s> Build and evaluate Neural Network </s>
+36412, <s> Separation of Continous numerical features and discrete numerical features </s>
+26217, <s> Recall we are using our chosen image as example for convenience I remind you of the chosen images image matrix and its bounding boxes coordinates below But there is a caveat here my bounding boxes array is of shape N 5 where the last element is the labels But when you want to use Albumentations to plot bounding boxes it takes in bboxes in the format of pascal voc which is x min y min x max y max it also takes in label fields which are the labels for each bounding box we still need to do some simple preprocessing below </s>
+20276, <s> class weight 0 </s>
+7547, <s> KNN </s>
+24284, <s> Producing the submission file for Kaggle </s>
+15261, <s> Observation Female have higher chances of Survival </s>
+8550, <s> Other Categorical Features </s>
+35908, <s> Visualizing Test Set </s>
+40090, <s> Regressors with Dimensionality Reduction </s>
+21634, <s> See all the columns of a big df </s>
+15327, <s> Lets convert our categorical data to numeric form </s>
+8011, <s> try a gradient boost with a weak random forest also we try to find number of estimator with early stoping </s>
+600, <s> Interesting </s>
+1170, <s> look at the basements </s>
+39099, <s> Linsear Write Formula </s>
+27119, <s> We only have half of Fireplace quality data </s>
+1237, <s> Defining folds and score functions </s>
+27011, <s> F1 Scores </s>
+29626, <s> Data preprocessing steps is very exhaustive and consumed a lot of time </s>
+30844, <s> Crime Distribution over the Month </s>
+11440, <s> Ridge RMSE Min Alpha </s>
+19294, <s> Model DenseNet 121 </s>
+33860, <s> Fitting a random model </s>
+19969, <s> Interesting </s>
+23464, <s> Splitting data into train and test sets </s>
+944, <s> Model Data </s>
+98, <s> This facet grid unveils a couple of interesting insights </s>
+8893, <s> Lasso LassoCV </s>
+19001, <s> Model fitting with HyperParameter optimisation </s>
+30101, <s> Model Train </s>
+28877, <s> Multi Dimensional Sliding Window </s>
+18205, <s> Train Schedule font </s>
+1341, <s> create Age bands and determine correlations with Survived </s>
+27131, <s> First step we separate discrete features </s>
+7698, <s> REGULARIZATION RECAP </s>
+40739, <s> Baseline Model </s>
+12335, <s> Fence </s>
+23575, <s> Define the model for hypertuning </s>
+11498, <s> Check other features </s>
+13330, <s> let s store in 2 new columns the information about babies </s>
+15434, <s> let s have a look at probabilistic Gaussian Naive Ba classifier performance </s>
+41599, <s> Train the model </s>
+7021, <s> Rating of basement finished area </s>
+429, <s> Alley data description says NA means no alley access </s>
+18082, <s> let s plot the images with large areas covered by bounding boxes </s>
+24465, <s> Original </s>
+34937, <s> Check it </s>
+31844, <s> We think that category and are same as </s>
+29187, <s> Random Forest </s>
+5147, <s> For numerical variables we are going to add an additional variable capturing the missing information and then replace the missing information in the original variable by the mode or most frequent value </s>
+17373, <s> Embarked Q </s>
+8235, <s> Basic Bivariate Visualization code </s>
+14403, <s> Filling the missing Fare value in test set based on mean fare for that Pclass </s>
+5598, <s> OverallQual causes different SalePrice where having same GrLivArea We have to put a strong attention </s>
+39097, <s> Automated Readability Index </s>
+42881, <s> Containment Zones in India </s>
+20106, <s> Item count mean by month main item category for 1 lag </s>
+34856, <s> Automatic feature selection </s>
+26477, <s> Add ons Pytorch Implementation for Resnet Finetuning </s>
+9336, <s> We now have a sparse matrix of the dimensions of number of rows times the number of unique Neighboorhoods which is very close to what we obtain by using get dummies and we have a loss in interpretability given the fact that the matrix looks like this </s>
+38660, <s> Count of Parents and Children </s>
+27319, <s> Hyperparameter tuning using keras tuner </s>
+23519, <s> Cut tails of longest tweets </s>
+9634, <s> Dropping ID from the dataset </s>
+8344, <s> We train a linear regressor for this new training matrix and predict our target We use Lasso GLM to avoid overfitting </s>
+18263, <s> Apply model to test set and output predictions </s>
+41963, <s> Submission </s>
+8814, <s> DEALING WITH MISSING VALUES </s>
+14095, <s> Decision Tree Output File </s>
+16679, <s> Data Wrangling </s>
+40670, <s> Tri gram Plots </s>
+889, <s> Decision Tree Classifier </s>
+18302, <s> one transaction with pric 0 </s>
+2434, <s> for the Ridge regression we get a rmsle of about 0 </s>
+7367, <s> I also add the column Class to the DataFrame wiki1 and assign it to 1 </s>
+33882, <s> converting categorical features to numeric by frequencies </s>
+10024, <s> The procedure for the training part may be described as follows </s>
+36287, <s> PCA Principle component analysis </s>
+15184, <s> Learning Curves </s>
+16786, <s> Simple Pipeline do it in a different way </s>
+17284, <s> You can slice the list of columns like a usual python list object </s>
+35945, <s> XGBoost </s>
+33259, <s> Show Image </s>
+40051, <s> Doing the resize preprocessing in advance is definitely speeding up the computation If you are using more images than the original data you should consider to do so as well </s>
+40318, <s> Analyse Tweet Entities </s>
+35385, <s> RANDOM FOREST </s>
+34408, <s> Processing data for saving </s>
+11104, <s> Identify Features Highly correlated with target </s>
+29528, <s> PassiveAggressiveClassifier </s>
+7049, <s> Exterior covering on house </s>
+4551, <s> FireplaceQu data description says NA means no fireplace </s>
+5591, <s> Checking the correlation between features </s>
+26888, <s> Score for A4 17688 </s>
+39783, <s> Logerror vs nearest neighbors logerrors </s>
+31545, <s> since None is maximum so replacing with the maximum one </s>
+32828, <s> build a mdel building function in which we input the layer bert layer and get the model as an output </s>
+10228, <s> start with moving target and feature variables </s>
+41997, <s> Sorting columns w ascending order </s>
+12339, <s> All 157 NAs in GarageType are NA in GarageCondition GarageQuality and GarageFinish </s>
+14356, <s> Distribution of Classes of Survived passengers </s>
+43014, <s> RandomForest </s>
+32896, <s> We have to do the similar score calculation for words in Question2 </s>
+32063, <s> decompose the dataset using Factor Analysis </s>
+20748, <s> as skew value imporver after regularization so we do log operation </s>
+36727, <s> Train the network </s>
+9438, <s> Correlation Heatmap </s>
+39052, <s> Name </s>
+4714, <s> let s handle the missing values </s>
+26868, <s> One important thing to do here visualize some input images </s>
+42057, <s> Making a function for drawing graphs </s>
+2314, <s> manually use dataframe methods to split X and y </s>
+8678, <s> Check for Missing Values </s>
+11650, <s> Gradient Boost </s>
+27770, <s> Improve the performance </s>
+2810, <s> Bar Chart </s>
+17403, <s> Model Comparison </s>
+4179, <s> Both Age and Fare contain outliers </s>
+27215, <s> because of class imbalance it s better to use focal loss rather than normal binary crossentropy You can read more about it here </s>
+36300, <s> Random Forest </s>
+34476, <s> Neural Network </s>
+15967, <s> Age Feature </s>
+45, <s> Ticket column </s>
+6369, <s> ENSEMBLE METHODS </s>
+6492, <s> Transforming skewered data and dummifying categorical </s>
+11296, <s> Modelling </s>
+20218, <s> Model Architecture </s>
+14353, <s> Number of Survived and NonSurvived with Gender </s>
+17695, <s> FEATURE SELECTED </s>
+29767, <s> We perform the same operation using the optimal model </s>
+29843, <s> clean and standerize the numerical data </s>
+26435, <s> This way we can easily extract the feature names after the encoding </s>
+33835, <s> Mode For categorical feature we can select to fill in the missing values with the most common value mode as illustrated below </s>
+39244, <s> Drop irrelevant categories </s>
+8888, <s> One Hot Encoding </s>
+3911, <s> LotFrontage we can fill in missing values by the median LotFrontage of the neighborhood </s>
+39032, <s> Train </s>
+38491, <s> Submission </s>
+9171, <s> TotalBsmtSF </s>
+17719, <s> To limit the number of categories in Fam membs features it be divided into 4 categories as following </s>
+21077, <s> Target varaiable </s>
+8025, <s> Let replace missing value with a variable X which means it s Unknown </s>
+5519, <s> XGB Classifier </s>
+13166, <s> start loading the required librarys that we use in this kernel </s>
+640, <s> so we have 18 different titles but many of them only apply to a handful of people </s>
+26736, <s> Plotting sales over the months </s>
+30644, <s> Logistic Regression </s>
+3847, <s> option4 replace age with title of name </s>
+40469, <s> Output new files </s>
+2987, <s> Decision Tree Regression </s>
+7555, <s> Bagging And Pasting </s>
+117, <s> As I promised before we are going to use Random forest regressor in this section to predict the missing age values </s>
+19722, <s> Store CA 1 </s>
+22363, <s> In this case three duplicated values are in Public LB subset </s>
+39771, <s> As I suspected questions are indeed sorted by ascending question id in our train dataset </s>
+2225, <s> Building Characteristics </s>
+38556, <s> Imputing missing values </s>
+31112, <s> there is no obvious seasonal periodic characteristics </s>
+26440, <s> To get an overview of the model structure we can plot the specifications and the model architecture </s>
+21379, <s> NB </s>
+31774, <s> Prediction </s>
+37629, <s> Here we display some images and their transformations </s>
+14413, <s> Scaling the Data </s>
+8471, <s> Feature Selection into the Pipeline </s>
+40702, <s> Training and Evaluating Our Model </s>
+17252, <s> Voting Hard Soft </s>
+33149, <s> Predict </s>
+35657, <s> Lets isolate both the numerical and categorical columns since we be applying different visualization techniques on them </s>
+1178, <s> No incongruencies here either </s>
+4230, <s> Data Load </s>
+25179, <s> After we find TF IDF scores we convert each question to a weighted average of word2vec vectors by these scores </s>
+6265, <s> This confirms that Southampton had the most number of 3rd class passengers but also had the most number of first class passengers </s>
+18295, <s> Checking our synonyms </s>
+3798, <s> For the categorical features without what NA means fill the NA with the mode </s>
+37640, <s> Adding variables from bedrooms </s>
+42251, <s> Import machine learning modules </s>
+7699, <s> define some helper functions which would be used repeatedly </s>
+31402, <s> Train Model Submit </s>
+2181, <s> Box Cox transformations aim to normalize variables </s>
+42096, <s> Plotting labels and checking their frequency </s>
+38688, <s> Sex </s>
+9743, <s> Age </s>
+19457, <s> The final layer of 10 neurons in fully connected to the previous 512 node layer </s>
+2211, <s> Light GBM </s>
+6850, <s> Ordinal Features </s>
+30339, <s> This is a routine to evaluate the losses using diferent learning rates </s>
+19214, <s> Sorting </s>
+27052, <s> Preprocessing DIOCOM files </s>
+10783, <s> Gridsearch and Crossvalidation </s>
+8793, <s> To explore the data we start with </s>
+20043, <s> Load Data </s>
+1088, <s> Statistical summaries and visualisations </s>
+3857, <s> Drop and Reordered columns </s>
+21407, <s> Training </s>
+16902, <s> New Feature NameLenBin </s>
+27318, <s> Creating a simple model without any hyperparameter tuning </s>
+28107, <s> Find correlation and combine the highly co related columns </s>
+11850, <s> Final Filling of Missing Data tying up loose ends </s>
+18249, <s> Dates Transactions </s>
+20834, <s> It is common when working with time series data to extract data that explains relationships across rows as opposed to columns e </s>
+41273, <s> Text Annotate Patch </s>
+16026, <s> Around 74 female survived but male just 18 </s>
+22438, <s> Counts Plot </s>
+24846, <s> Still need to complete part of the data for dates past the 25th of March as the enriched dataset didn t go that far </s>
+34282, <s> Cnt Along Time </s>
+13059, <s> Importing tools data and cleaning up the data </s>
+41962, <s> Predictions </s>
+14442, <s> Create New Column AgeBand </s>
+25004, <s> Item Item Category Data </s>
+24150, <s> we calculate the mean hour for each product </s>
+12148, <s> Creating the submission file 3 </s>
+22103, <s> Visualiza some Test Images and their Predicted Labels </s>
+12107, <s> XGBoost </s>
+20222, <s> Submission </s>
+14909, <s> People from Pclass 1 and Sex female are more likely to from Embarked S or C </s>
+2122, <s> The parameter space I want to explore searching for the best configuration is </s>
+38416, <s> Don t forget to change the model prediction from a class probability array to class value </s>
+12631, <s> Feature Distributions </s>
+37667, <s> Callbacks </s>
+4973, <s> IsChild </s>
+42029, <s> For example PC17599 PC and 113803 113083 </s>
+18067, <s> Saving the Models </s>
+11103, <s> View sample data </s>
+11140, <s> Then add this column from previous investigation to the dataset y curve fit gla 2 curve fit gla 1 x data curve fit gla 0 x data2 </s>
+19546, <s> Stemming and Lemmatization </s>
+20715, <s> LotShape column </s>
+35461, <s> Visualize the skin cancer at Upper extremity </s>
+29903, <s> Compile network </s>
+9353, <s> Wrangle prepare cleanse the titanic data manually </s>
+15136, <s> Engineering </s>
+22466, <s> Tree map </s>
+10319, <s> Make individual model predictions </s>
+33497, <s> Italy </s>
+30603, <s> We can remove these columns from both the training and the testing datasets </s>
+3832, <s> box whisker plot using plot method in pandas </s>
+4403, <s> Bulding the Random Forest Model </s>
+41207, <s> len prediction len GT </s>
+26337, <s> The best score is when we use MNB on the bag of words vectors </s>
+21364, <s> Using polarity for pretraining TRANSFER LEARNING </s>
+39073, <s> Feature Importance </s>
+40689, <s> now most importantly split the date and time as the time of day is expected to effect the no of bikes for eg at office hours like early mornning or evening one would expect a greater demand of rental bikes </s>
+4436, <s> Prediction </s>
+27183, <s> Creat Submission file </s>
+28707, <s> Submission </s>
+21640, <s> 3 ways of renaming columns names </s>
+38273, <s> here we are actually padding that means if the sentence is not long enough we are just filling it with zeros </s>
+36409, <s> look at filling in some of the tax related variables </s>
+31528, <s> Explotory Data Analysis EDA </s>
+21786, <s> Var columns </s>
+6531, <s> Visualize model scores </s>
+33466, <s> StateHoliday </s>
+31640, <s> PdDistrict </s>
+8345, <s> we submit our prediction </s>
+38563, <s> K Nearest Neighbors Regressor </s>
+450, <s> Getting dummy categorical features </s>
+3672, <s> Visually comparing data to sale prices </s>
+17687, <s> WE WILL USE THE MEDIAN VALUE </s>
+12944, <s> Categorical Encoding </s>
+31674, <s> Understanding how to process data for our aim </s>
+3869, <s> what happened </s>
+38301, <s> Lets now prepare and clean our training dataset </s>
+7831, <s> Rolling window estimates </s>
+29361, <s> Fare Feature </s>
+35420, <s> Plotting an image from each class to get insight on image data </s>
+34865, <s> I use the following function to track our training vocabulary which goes through all our text and counts the occurance of the contained words </s>
+38092, <s> FITTING THE MODEL </s>
+27575, <s> ps ind 03 x ps ind 161718 </s>
+3881, <s> We are at the final step of applying Regressors to predict the SalePrice with our pipeline </s>
+21647, <s> Read and write to a compressed file csv zip </s>
+33661, <s> Put submission to csv file </s>
+7748, <s> There are some categorical features which their categories are actually ordinal so it can be a good idea to convert them to numerical features </s>
+33506, <s> Albania </s>
+15852, <s> Ticket Family Survival Rate </s>
+32483, <s> Re run model using all training data for optimal mixing parameter </s>
+26220, <s> Horizontal Flip </s>
+18264, <s> Predictions class distribution </s>
+24057, <s> We ll build a CatBoost model and find best features with SHAP Values </s>
+22066, <s> Which words in our data are NOT in a vocab </s>
+3760, <s> Linear Regression </s>
+2465, <s> Forward Selection </s>
+40281, <s> define helper function for image augmentation using albumentations library </s>
+19011, <s> Experiment 1 </s>
+26877, <s> Create Submission File for approach 1 </s>
+39998, <s> At this stage I compare two data set according to the age </s>
+15999, <s> Creating the Submission File </s>
+41657, <s> Bivariate analysis of numerical features against target </s>
+7747, <s> Id feature can be deleted as it doesn t give us any information and it s not needed </s>
+33243, <s> the training cycle is repeated lr find freeze except last layer </s>
+38621, <s> Splitting Up Train and Validation Set </s>
+8886, <s> Skewness Check in all the columns </s>
+18501, <s> Simple enough </s>
+31352, <s> The report can also be exported into an interactive HTML file with the following code </s>
+10855, <s> Filling certain categorical columns about which we have an intuition using the forward fill method </s>
+32366, <s> A General Look With Sunburst Chart </s>
+18035, <s> Men and Boy </s>
+16827, <s> Feature Selection Using RFE </s>
+29855, <s> We need to perform tokenization the processing of segmenting text into sentences of words In the process we throw away punctuation and extra symbols too The benefit of tokenization is that it gets the text into a format that is easier to convert to raw numbers which can actually be used for processing </s>
+26467, <s> In this section we try to implement a CNN architecture from scratch using the Keras library </s>
+33202, <s> Evaluate Model on Test Data </s>
+2049, <s> LogisiticRegression Model </s>
+27016, <s> Training </s>
+6297, <s> Model selection </s>
+18490, <s> Since the competition variables CompetitionOpenSinceYear and CompeitionOpenSinceMonth have the same underlying meaning merging them into one variable that we call CompetitionOpenSince makes easier for the algorithm to understand the pattern and creates less branches and thus complex trees </s>
+55, <s> AdaBoost </s>
+41301, <s> How many categorical predictors are there </s>
+14154, <s> let s take a look at the Cabin and Ticket features </s>
+10640, <s> Rarely Occuring Title Respective Gender </s>
+12083, <s> Correlation study </s>
+43378, <s> the label holds the true digit and the other columns all 784 pixel of an image with 28 times 28 pixels </s>
+9213, <s> Family Survival </s>
+19145, <s> Model 4 with AdamOptimizer </s>
+11907, <s> Embarked </s>
+28482, <s> The standard deviation and the maximum value have dropped by quite a large margin </s>
+14539, <s> We are given the train and test data </s>
+24351, <s> Set the optimizer and annealer </s>
+15668, <s> Logistic Regression </s>
+2766, <s> Feature selection </s>
+11542, <s> As a first step we start by importing all the libraries that we shall use in our subsequent analysis </s>
+1931, <s> Ground Living Area w </s>
+29602, <s> Training The Model </s>
+12187, <s> Submission file </s>
+21121, <s> Define variables categories </s>
+18188, <s> Lets clean up product names a bit we have 1000 unique names once we cleaned the weights but there is much more work to be done </s>
+7373, <s> Preparing Kaggle dataset for merge </s>
+3240, <s> Importing and Understanding the Data Set </s>
+12401, <s> Converting ordered categorical fields to numbers </s>
+6909, <s> And the next 3 plots are just cool kdeplots for Gender and Survival Rate </s>
+31097, <s> Data cleaning for test data done </s>
+17273, <s> Gaussian Naive Bayes </s>
+17890, <s> Lets visualize the new variable Title </s>
+26263, <s> Processing of the test file </s>
+6897, <s> Most of the passengers are between 15 and 40 years old and many infants had survived </s>
+40725, <s> Further Traning </s>
+795, <s> You can easily compare features and their relationship with the class by grouping them and calculating some basic statistics for each group </s>
+15152, <s> Age vs Survival </s>
+9252, <s> A Few ML Models </s>
+31046, <s> Caps Words </s>
+11677, <s> It looks like those who survived either paid quite a bit for their ticket or they were young </s>
+21061, <s> ROC Curve for healthy vs sick </s>
+34611, <s> PCA </s>
+12669, <s> Visualization </s>
+27553, <s> Display interactive filter based on click over dependent chart </s>
+11130, <s> Safe to drop the Id column now as we are finished deleting points otherwise our Train ID list be smaller than y train </s>
+28516, <s> GarageCars </s>
+22370, <s> Feature Selection </s>
+40825, <s> t SNE using Scikit Learn </s>
+35799, <s> Find best cutoff and adjustment at low end </s>
+19826, <s> Rare Label encoding </s>
+6010, <s> Masukkan ke pipa Preprocessor </s>
+24499, <s> Generating the model itself using the defined class </s>
+30094, <s> To enable CV </s>
+2748, <s> Using mode returns a series so to avoid errors we should use </s>
+15524, <s> Combine train and test dataset </s>
+32112, <s> How to import a dataset with numbers and texts keeping the text intact in python numpy </s>
+32320, <s> Check Accuracy </s>
+28336, <s> Analysis Based on FAMILY STATUS </s>
+41934, <s> Generator Network </s>
+25287, <s> 7 accuracy not bad at all </s>
+28811, <s> Create Our Model </s>
+20036, <s> The next step is to split the data into training and testing parts since we would like to test our accuracy of our model at the end </s>
+27173, <s> Splitting the data in train and test datasets for model prediction </s>
+13468, <s> Exploration of Embarked Port </s>
+4301, <s> Inference </s>
+3484, <s> Model 3 Random Forest </s>
+25846, <s> Hashtags Cloud </s>
+20383, <s> explore corpus and discover the difference between raw and clean text data </s>
+3371, <s> In order to actually move my local files to GCS I ve copied over a few helper functions from another helpful tutorial on moving Kaggle data to GCS </s>
+1180, <s> Looking at the min and max of each variable there are some errors in the data </s>
+6696, <s> Lets take some examples </s>
+16105, <s> we map Age according to AgeBand </s>
+34919, <s> Count exclamatory in tweets </s>
+11995, <s> make predictions on test data for linear reg </s>
+27452, <s> Remove Punctuation </s>
+4158, <s> Count and Frequency Encoding </s>
+18351, <s> ENCODING </s>
+40730, <s> Lets understand the intermediate layers of the model </s>
+8545, <s> LotFrontage </s>
+37060, <s> Ticket variable contains alphanumeric only numbers and character type variables </s>
+29915, <s> The random search slope is basically zero </s>
+15203, <s> Neural Network </s>
+16406, <s> Male is Less likely to survive than female </s>
+33697, <s> Monthly Series font </s>
+18892, <s> Modeling </s>
+32225, <s> First we need to define the label and feature </s>
+4865, <s> SalePrice is skewed and it needs to be normally distributed </s>
+3806, <s> Gradient Boost Regressor </s>
+6398, <s> Data is skewed and dense at bottom checking for skewness and kurtosis </s>
+8546, <s> Garage Features </s>
+38956, <s> And then unpack the bbox coordinates into seperate columns x y w h </s>
+11017, <s> we are gonna write a code which iterate over Sex and Pclass and fill the null matrix </s>
+12460, <s> Skewness in other variables </s>
+5549, <s> Build Keras Model </s>
+27979, <s> Binary Classification </s>
+24587, <s> Predict </s>
+25225, <s> Modeling </s>
+22707, <s> Prediction on Test Set </s>
+34966, <s> Data Wrangling Feature Engineering </s>
+8945, <s> Fixing Masonry </s>
+8353, <s> Survival rate regarding the family members </s>
+276, <s> Age </s>
+10848, <s> Box Cox Transformation on Skewed Features </s>
+30576, <s> Correlation Function </s>
+14978, <s> Filling Cabin missing values of training set </s>
+28708, <s> Randomize the samples from TRAIN DIR and TEST DIR </s>
+7073, <s> It s a passenger from Pclass 3 so we ll fill the missing value with the median fare of Pclass 3 </s>
+23962, <s> Correlation Analysis </s>
+25765, <s> Pclass </s>
+10482, <s> Imports </s>
+26381, <s> start by defining some parameters </s>
+39752, <s> And again checking poly scaled features making sure to scale AFTER you add polynomial features </s>
+35882, <s> Reshaping </s>
+28539, <s> is time for modeling </s>
+30424, <s> Sample sentiment prediction </s>
+41051, <s> Customer Order Count </s>
+35719, <s> looks like we have 2 MasVnrArea and BsmtFinSF1 so use those for this test </s>
+13968, <s> SibSp Siblings Spouse </s>
+17881, <s> Spliting the train data </s>
+8082, <s> Defining model scoring function </s>
+16383, <s> Combining Pclass and Embarked </s>
+41732, <s> Setting up validation and training dataset </s>
+9418, <s> The model Cross validation </s>
+8918, <s> The function plot missing identifies the percentage of missing rows for every feature in our dataset </s>
+2927, <s> ExtraTrees </s>
+41930, <s> let s create a dataloader to load the images in batches </s>
+23842, <s> Taking X10 and X29 </s>
+14463, <s> back to Evaluate the Model model eval </s>
+7980, <s> Its hard to select from them by eye </s>
+36491, <s> Attention model in Keras </s>
+6802, <s> Imports and useful functions </s>
+13342, <s> Another piece of information is the ticket number </s>
+1726, <s> Correlation Heatmap </s>
+7937, <s> XGBoost Regressor </s>
+6950, <s> Embarked </s>
+1893, <s> Validation Data Set </s>
+32380, <s> Correlations Between Features </s>
+26794, <s> Visualize some examples from the dataset </s>
+13029, <s> Fare </s>
+42979, <s> now construct a few features like </s>
+16959, <s> We have a clear fare distribution between 0 and 150 </s>
+16087, <s> Below we just find out how many males and females are there in each Pclass </s>
+11196, <s> xgb reference </s>
+41581, <s> Using a Learning Rate Annealer the Summary </s>
+803, <s> Imports </s>
+38022, <s> First let us define these functions which do the jobs </s>
+34342, <s> Feature Selection and Engineering </s>
+3179, <s> Sklearn Models </s>
+1388, <s> Validation </s>
+6098, <s> Transforming and Engineering Features </s>
+6753, <s> Checking Skewness for feature LotArea </s>
+42787, <s> Target Distribution </s>
+18607, <s> ConvLearner </s>
+725, <s> As aforementioned if we want to look at more traditional regression techniques we need to address the skewness that exists in our data </s>
+29628, <s> Dataset after transformation </s>
+38017, <s> Another handy feature is analyzing individual predictions </s>
+15258, <s> One Record is missing for Fare Feature in test dataset </s>
+1629, <s> Importing my functions </s>
+18222, <s> Evaluation Functions </s>
+15713, <s> Create one feature for Family Members on board of Titanic </s>
+9172, <s> This relationship isn t looks almost linear </s>
+15797, <s> There is much difference for 1st and 2nd Embarkation for 1st and 3rd Pclass in terms of fare for males and females while the 2nd class fare is similar in all the Embarkations </s>
+15209, <s> calculate average survivability for each left categorical fields </s>
+11623, <s> Split train and test dataset </s>
+6383, <s> Histograms are used to visualize interval and ratio data </s>
+6520, <s> Numeric Variables </s>
+26915, <s> It is often considered as if there is more than 15 of missing data then the feature should be deleted </s>
+28468, <s> Remaining columns </s>
+12499, <s> Train Untuned XGBoost </s>
+35921, <s> View an example of features </s>
+35675, <s> Based on the current feature we have the first additional featuire we can add would be TotalLot which sums up both the LotFrontage and LotArea to identify the total area of land available as lot We can also calculate the total number of surface area of the house TotalSF by adding the area from basement and 2nd floor TotalBath can also be used to tell us in total how many bathrooms are there in the house We can also add all the different types of porches around the house and generalise into a total porch area TotalPorch </s>
+7758, <s> Another pipeline for categorical features which first use an imputer to replace missing values of features which the most frequent value and then applies a label binarizer </s>
+976, <s> tune it </s>
+4912, <s> Analyzing the Categorical Predictors </s>
+38982, <s> Keep only relevant numerical features and normalize </s>
+19158, <s> Undersampling </s>
+2420, <s> It appears that the target SalePrice is very skewed and a transformation like a logarithm would make it more normally distributed </s>
+19914, <s> Feature Importance </s>
+32120, <s> How to find the position of missing values in numpy array </s>
+29531, <s> displaying the matrix of a single image defines the first instance of the data </s>
+15546, <s> dropping Cabin column </s>
+2768, <s> Interesting insights </s>
+10254, <s> Go to Contents Menu </s>
+2579, <s> Libraries and Data </s>
+6606, <s> XGBOOSt </s>
+26018, <s> Dealing with outliers requires knowledge about the outlier the dataset and possibly domain knowledge </s>
+535, <s> Feature Engineering </s>
+24825, <s> change grey value from int to float </s>
+39145, <s> Data Wrangling </s>
+14475, <s> 18 of male survived and 74 percent female survived </s>
+27554, <s> Display interactive highlighter of time series </s>
+36835, <s> Define calculations we need from the Neural Network </s>
+17830, <s> also plot the classification report for the validation set </s>
+12421, <s> After training our model we have to think about our input </s>
+42990, <s> Word2Vec </s>
+10780, <s> Object Columns </s>
+24101, <s> Finding the columns contains nan value </s>
+37117, <s> We get a correlation coefficient of 0 </s>
+8138, <s> Imputing Real Null Values </s>
+203, <s> RANSAC Regressor </s>
+5962, <s> Age and Survived </s>
+5337, <s> Diplay series with high low open and close points with custom text </s>
+1116, <s> 20 of entries for passenger age are missing </s>
+14409, <s> We dont need this feature to predict the survival of a pasenger </s>
+41812, <s> Inferance </s>
+6912, <s> Check for missing data </s>
+15365, <s> Handling Embarked Feature </s>
+887, <s> Gaussian Naive Bayes </s>
+41077, <s> Encoding the data and train test split </s>
+1932, <s> SalePrice per square foot </s>
+41279, <s> MEME xkcd theme </s>
+24996, <s> Generating final training validation and test sets </s>
+9277, <s> Lasso Regr Model </s>
+14513, <s> Observations </s>
+37181, <s> Submission </s>
+28427, <s> Shop info </s>
+15752, <s> Clean Data </s>
+4093, <s> Last but not the least dummy variables </s>
+39691, <s> Spelling Correction </s>
+7464, <s> Making predictions and measuring accuracy </s>
+9032, <s> In one hot encoding we made values of categorical nominal features their own row </s>
+8074, <s> Zoning is also interesting </s>
+36752, <s> Submission File Creation </s>
+12784, <s> Training the model </s>
+14226, <s> Binning </s>
+26341, <s> Modelling </s>
+3489, <s> Get the in sample and estimated out of sample accuracies </s>
+11041, <s> Create the pipeline </s>
+29881, <s> With KFold </s>
+11826, <s> look at the data after dropping variables </s>
+43358, <s> X and y </s>
+38580, <s> There are more missing values in the keyword and location so we can drop it </s>
+13987, <s> Age is not correlated with Sex and Fare </s>
+4990, <s> Learning Logistic Regression </s>
+41175, <s> update i changed maxpooling layer and dropouts with multisample dropouts </s>
+24523, <s> How about employee index </s>
+32968, <s> Embarked </s>
+8375, <s> XGBoost </s>
+1761, <s> Passenger ID </s>
+4316, <s> Fare </s>
+34608, <s> using the XGB models </s>
+38203, <s> Prepare Data </s>
+6386, <s> calculate and plot Pearson correlation coefficient using numpy for columns in the dataset and plot them using seaborn heatmap </s>
+19098, <s> Building Machine Learning Models Train Data </s>
+13126, <s> Visual of empty values </s>
+13702, <s> We now use one hot encoding on the deck column </s>
+32128, <s> How to create a new column from existing columns of a numpy array </s>
+19545, <s> Removal of Stopwords </s>
+9425, <s> Scatter Plot </s>
+28783, <s> Conclusion Of EDA </s>
+6290, <s> Support Vector Machines </s>
+27036, <s> The number of unique patients is less than the total number of patients </s>
+13529, <s> Encoding categorical features </s>
+34531, <s> To test whether this function works as intended we can compare the most recent variable of CREDIT TYPE ordered by two different dates </s>
+36853, <s> plot history loss and acc </s>
+10778, <s> good enough for me I ll wrap this up and make the predictions out of it </s>
+6562, <s> Parch </s>
+43117, <s> handle missing values in X test </s>
+23585, <s> More insights </s>
+32533, <s> Train the Model </s>
+27400, <s> Load images into the data generator </s>
+6783, <s> Feature Sex </s>
+7030, <s> Garage Quality </s>
+37900, <s> XG Boost Regressor </s>
+3783, <s> XGBoost </s>
+40316, <s> Get only those lemmas with 2 merged candidates </s>
+5719, <s> Getting dummy categorical features </s>
+11387, <s> The passenger class is somewhat evenly distributed in terms of survivors but of those that perished odds were they were in the 3rd class </s>
+31407, <s> Lets take a look of our data notice that the grey img now is turned to RGB with size </s>
+4532, <s> Titanic 1997 film 29Historical characters </s>
+34628, <s> Wikipedia Definition </s>
+14101, <s> center Histogram center </s>
+16591, <s> Checking best features </s>
+9504, <s> Librarires using for Machine Learning Algorithm </s>
+32245, <s> let s split out training and testing data </s>
+20351, <s> we unfreeze the pretrained layers and look for a learning rate slice to apply In Lesson Call lr find again Look to just before it shoots upe and go back x which is e and that s what I do for the first half of my slice and for the second half of my slice I normally use whatever learning rate I used for the first part divided by or </s>
+6558, <s> Age </s>
+1328, <s> Analyze by visualizing data </s>
+31122, <s> normalize and impute missing values </s>
+37992, <s> Predict on test </s>
+4123, <s> Machine Learning </s>
+8658, <s> Instructions </s>
+14985, <s> Machine Learning with different algorithms </s>
+13228, <s> Deep Learning Model </s>
+33039, <s> That didn t change it much </s>
+15551, <s> Training data </s>
+10280, <s> Random forest full dataset </s>
+6235, <s> Stacking of base models </s>
+13523, <s> If we want to it s also possible to check the feature importances of the best model in case they re easy to understand and explain </s>
+7721, <s> Checking for NaN values in Data </s>
+32211, <s> Add lag values for item cnt month for month shop item </s>
+42307, <s> Probability Dataframe </s>
+25213, <s> find the percentage of missing values for the features </s>
+38720, <s> we finished training the GAN </s>
+28997, <s> Dealing with Outliers </s>
+248, <s> Library and Data </s>
+16512, <s> Logistic Regression </s>
+15879, <s> Leaf size </s>
+30662, <s> For somebody storms and open wounds are the real disasters </s>
+7866, <s> To start the exploration it is possible to group passanger by Sex and Class these groups could give insights if higher class have better chance of survive or woman have better chance than men for example </s>
+14537, <s> Random Forest Classifier </s>
+15882, <s> Output Final Predictions </s>
+4769, <s> Replacing the fare column in the test dataset with the median value of the column </s>
+4109, <s> Transform the target variable if skewness is greater than 1 or smaller than 1 </s>
+14116, <s> As expected the survival rates are higher if they are with family </s>
+37807, <s> Polynomial Regression </s>
+18453, <s> strong Natural Language Processing strong font div </s>
+42257, <s> Make predictions for submission </s>
+13410, <s> Precision </s>
+16271, <s> Execute </s>
+35576, <s> Looking at the same data a different way we can plot a rolling 7 day total demand count by store </s>
+7594, <s> Rotating the 3d view reveals that </s>
+32200, <s> Clean item names </s>
+5537, <s> Final Missing Data </s>
+9385, <s> BsmtFinSF1 Type 1 finished square feet </s>
+19346, <s> Prediction </s>
+41003, <s> Classifier block </s>
+31708, <s> Stacking Blending </s>
+11485, <s> Electrical </s>
+17486, <s> Stacking Ensemble </s>
+3194, <s> Full imputation </s>
+13182, <s> First let s take a look into Age distribution </s>
+38951, <s> For this particular problem we can just use one time period of 48 days </s>
+42033, <s> Narrowing down filtering small categories using threshold </s>
+27467, <s> Data Cleaning </s>
+18964, <s> Display the variability of data and used on graphs to indicate the error </s>
+4311, <s> Survived or died </s>
+20444, <s> previous applications </s>
+32352, <s> Loading pre trained word vectors </s>
+459, <s> Mean of all model s prediction </s>
+24271, <s> k Nearest Neighbors algorithm k NN </s>
+34089, <s> Apparently there are some price outliers we need to remove for visualization </s>
+28914, <s> We ll back this up as well </s>
+7458, <s> Let s take a look at the Age column </s>
+19932, <s> SibSP </s>
+21738, <s> When the model is finished process the test data and make your submission </s>
+10900, <s> Imports </s>
+31056, <s> Latitude Longitude </s>
+38828, <s> Define model and optimizer </s>
+29992, <s> Splitting the data </s>
+4511, <s> Considering the number of Outliers and missing values also we are discarding these variables </s>
+4237, <s> We can now evaluate how our model performed using Random Search </s>
+21778, <s> Missing data </s>
+39774, <s> Splitting into train and test with sklearn model selection train test split </s>
+444, <s> there any many features that are numerical but categorical </s>
+40648, <s> encoding numerical features </s>
+14271, <s> Cross Validation </s>
+34618, <s> Model parameters initialisation </s>
+39689, <s> Remove punctuations </s>
+31741, <s> Hue Saturation Brightness </s>
+1242, <s> Submission </s>
+26044, <s> Defining the Model </s>
+12028, <s> one more thing we may experiment as we know Xgboost LGBM Adaboost and Gradient boosting fits well so let s try to combine only these four using stacking </s>
+42461, <s> NOTE I take a sample of the train data to speed up the process </s>
+8721, <s> Summary </s>
+5129, <s> Model Ensembling </s>
+27650, <s> Set data features and labels </s>
+39436, <s> Remove Object type of feature from train and test datasets </s>
+12598, <s> Data </s>
+38180, <s> Finalize Model for Deployment </s>
+4267, <s> SaleType </s>
+28826, <s> Extract the dates of state and school holidays and format them in a DataFrame adhering to the need of the prophet </s>
+34912, <s> Count users by </s>
+29950, <s> The feature importances look to be relatively stable across hyperparameter values </s>
+23333, <s> Ensemble Performance </s>
+24865, <s> Before moving on lets split train df into X and y to prepare the data for training </s>
+6069, <s> MiscVal I would say drop it </s>
+5455, <s> Stack them into a single array </s>
+26289, <s> Implement the update rule </s>
+4975, <s> Family Size </s>
+39437, <s> Visualization </s>
+7153, <s> Loading Required Librarys and datasets </s>
+13690, <s> Age </s>
+18459, <s> Embeddings I ll move on to loading and using the embeddings tools </s>
+7652, <s> transform skewed features </s>
+17378, <s> We model our testing data the following the same way we did with the training data The following steps </s>
+10047, <s> Reciever Operating Characteristics </s>
+40282, <s> Define dataloader for tpu </s>
+21425, <s> MasVnrArea </s>
+26502, <s> We ll get back to convolutions and pooling in more detail below </s>
+14928, <s> Naive Bayes </s>
+11021, <s> Completing missed values in Embarked feature </s>
+5966, <s> Child feature </s>
+25342, <s> Parameter and Model Selection </s>
+11176, <s> our column count went from 216 to n component value </s>
+7216, <s> Alley Null Values </s>
+20738, <s> GrLivArea Column </s>
+25038, <s> Looks like customers order once in every week or once in a month </s>
+27585, <s> that we have an idea of what new features to construct and how they might be useful let s add the rest of them and visualize them </s>
+11780, <s> Missing Value Treatment </s>
+40254, <s> 1st Floor Surface Area </s>
+11153, <s> Look for other correlations maybe all the basement olumns correlate like BsmtFullBath and BsmtFinSF1 and Fin vs Unf have negative correlation </s>
+8922, <s> In our EDA section we found the relationship between Neighborhood and LotFrontage </s>
+26992, <s> Apply lowerization necessary if using paragram </s>
+17807, <s> And let s plot the Class Age grouped by the survived and not survived </s>
+37821, <s> Remove URLs http tags </s>
+13288, <s> We tuning the hyperparameters of the XGBClassifier model using the HyperOpt and 10 fold crossvalidation </s>
+21907, <s> Examining highly correlated variables </s>
+34650, <s> Borrowed from </s>
+25875, <s> Word clouds of each class </s>
+37881, <s> Evaluation </s>
+84, <s> apply function in each unknown cabins </s>
+30985, <s> Distribution of Search Values </s>
+28002, <s> Buiding The Model Structure </s>
+35233, <s> Sentiment variable is the theme of our data </s>
+6106, <s> Don t forget to save the indexes of primary datasets </s>
+11545, <s> The target variable is positively skewed we can perform a log transformation to render the target distribution more gaussian like </s>
+40101, <s> Make submission </s>
+36291, <s> Additionally you can view the y intercept and coefficients </s>
+36862, <s> Perceptron </s>
+17958, <s> NN </s>
+22935, <s> I create an estimated age feature </s>
+5495, <s> K Fold Techniques </s>
+42844, <s> Italy </s>
+8113, <s> Splitting Training Testing Data </s>
+26581, <s> And what a good boy it is loop over dog images to view some wrong predictions </s>
+9520, <s> Logistic Regression </s>
+19897, <s> Bottom 10 Sales by Shop </s>
+38854, <s> Prediction </s>
+40785, <s> nn model with L regularization The general methodology to build a Neural Network is to </s>
+13443, <s> SibSp don t have big effect on numbers of survived people </s>
+27288, <s> Plot SEIR model and predict </s>
+26299, <s> Predicting and saving the output </s>
+3299, <s> MiscFeature delete According to the file you can use None to fill in missing values I also explored the relationship between MiscFeature and its corresponding MiscVal and GarageType tried some filling methods and even determined that the example in the test set 1089 should be filled with Gar2 but eventually deleting the feature works better for my model </s>
+10554, <s> Reverse The Labels </s>
+32629, <s> well the naive ba on TFIDF features scores much better than logistic regression model </s>
+25796, <s> Some managers have entries only in one of the two datasets </s>
+6982, <s> Discrete Variables </s>
+28721, <s> Looking the Total Amount sold by the Stores </s>
+11419, <s> Use Case 11 Funnel Chart </s>
+17005, <s> There are a lot of missing values in Cabin column </s>
+527, <s> Passengers embarked in S had the lowest survival rate those embarked in C the highest </s>
+41114, <s> Target Variable Distribution Join Fips by Bokeh </s>
+2937, <s> Make the Distribution Normal </s>
+18486, <s> get Days from Date and delete Date since we already have its Year and Month </s>
+41741, <s> Looks like they were moved but only a tiny bit </s>
+33546, <s> Current best value is 14793 </s>
+18075, <s> Plot the images with many spikes </s>
+20843, <s> It s usually a good idea to back up large tables of extracted wrangled features before you join them onto another one that way you can go back to it easily if you need to make changes to it </s>
+1980, <s> apply that function </s>
+42145, <s> Encoder </s>
+16665, <s> Creating New Features </s>
+4749, <s> YearBuilt YearRemodAdd GarageYrBlt sown us when year is increasing price is also increasing </s>
+28863, <s> Pytorch Tensors </s>
+1691, <s> Distribution plots for list of numerical features DistplotsforallNumricals </s>
+32710, <s> Defining optimizer </s>
+28221, <s> Model Tuning </s>
+14241, <s> Fare Features </s>
+33887, <s> installments payments loading converting to numeric dropping </s>
+14648, <s> Brilliant time to test our first model </s>
+22272, <s> Cabin </s>
+19909, <s> Year </s>
+15837, <s> Fare </s>
+26455, <s> RF Modelling </s>
+32941, <s> ik word P Xi 124 y Likelihood of each word conditional on message class </s>
+13019, <s> Analyzing the data </s>
+42992, <s> Modeling </s>
+32930, <s> Predicting with images from test dataset </s>
+21920, <s> RMSE on test set using all features 12906 </s>
+42224, <s> Data Augmentation </s>
+445, <s> Converting some numerical variables that are really categorical type </s>
+18209, <s> Submit to Kaggle font </s>
+16654, <s> When I googled that names I learned that they boarded the Titanic in from Southampton </s>
+16015, <s> Normal distribution outlier not detected </s>
+19651, <s> Benchmark predict gender age group from phone brand </s>
+40625, <s> we are ready to build and train out pytorch models </s>
+9960, <s> I create this new data frame were i select the columns SalePrice and MoSold </s>
+34298, <s> It is a 222x222 feature map with 32 channels </s>
+11424, <s> Find </s>
+22132, <s> The Hyperparameters that can be used tuned in CatBoost model are </s>
+28927, <s> All </s>
+22625, <s> Visualizing Model Performance </s>
+3772, <s> Parch </s>
+34279, <s> sidetrack Rent cost in NYC </s>
+6157, <s> Create a meta regressor </s>
+28407, <s> Compile It </s>
+33323, <s> Define callbacks and learning rate </s>
+37538, <s> ANN KERAS MODEL </s>
+23111, <s> Findings Nearly 58 passengers had title Mr male of course followed almost 20 passengers had titles Miss unmarried women hence usually younger than Mrs Just over 15 passengers were married women Mrs </s>
+34939, <s> Predict submit </s>
+15395, <s> have a look at missing values across the board </s>
+41461, <s> Feature Embarked </s>
+23438, <s> Making our submission </s>
+32117, <s> How to compute the softmax score </s>
+19257, <s> Rearrange dataset so we can apply shift methods </s>
+20815, <s> SUBMISSION </s>
+4828, <s> LotFrontage Linear feet of street connected to property </s>
+5840, <s> We use log transform to make them normally distributed </s>
+35426, <s> Compiling and fitting the data in the model </s>
+30838, <s> Lets look for the top crimes of San Fransisco </s>
+42219, <s> The next step is to feed the last output tensor into a densely connected classifier network a stack of Dense layers </s>
+29114, <s> train fit one cycle for 5 cycles to get an idea of how accurate the model is </s>
+36585, <s> Use more training data </s>
+37001, <s> Number and ratio of orders from the three datasets </s>
+31302, <s> PCA decomposition </s>
+8767, <s> Survival by number of sibling or spouse </s>
+28459, <s> Analyzing columns of type float </s>
+7360, <s> Leave first 40 features </s>
+39736, <s> SibSp and Parch </s>
+15631, <s> Visualizing age data </s>
+17794, <s> check the correlation between family size and survival rate </s>
+38633, <s> write a function to display outputs in defined size and layer </s>
+5002, <s> Numerical Features </s>
+32015, <s> There is one Ms so we assign Ms to Miss category and NaN to all remaining rows In below code block negates the rule </s>
+19565, <s> Preparing the data </s>
+41533, <s> Dimensionality reduction </s>
+38069, <s> Bigrams Analysis </s>
+7514, <s> Optional code cells </s>
+37361, <s> SibSp Parch vs Survived </s>
+13568, <s> Sibsp feature </s>
+10803, <s> presume that Fare and Class are related to Port </s>
+3616, <s> Remove Outliers </s>
+36559, <s> Setup </s>
+22907, <s> Encoding and Vectorizers </s>
+8748, <s> Validation Function </s>
+17346, <s> Extra Trees </s>
+11326, <s> Fare Imputation </s>
+17364, <s> preparing submissions </s>
+6028, <s> Auto Detect Outliers </s>
+10264, <s> Distribution of target variable </s>
+5189, <s> In machine learning Naive Bayes classifiers are a family of simple probabilistic classifiers based on applying Bayes theorem with strong naive independence assumptions between the features Naive Bayes classifiers are highly scalable requiring a number of parameters linear in the number of variables features in a learning problem Reference Wikipedia </s>
+32654, <s> Whenever possible additional features related to key aspects of the problem under analysis may be created to reinforce the weight of such aspects in the regression </s>
+22973, <s> Display Influential Subtext </s>
+15139, <s> Checking Survival rate </s>
+26500, <s> For this problem we use zero padded convolutions so that the output is the same size as the input Stride step in this case is equal to </s>
+14120, <s> Correlation </s>
+41405, <s> Contact information </s>
+2542, <s> For this part I repeat the same functions that you can find previously by adding a categorical features </s>
+7941, <s> Submission </s>
+19401, <s> We are going to vectorize the text along with increasing the readablity of the text by removing the punctuations and countwords </s>
+37233, <s> Train </s>
+21785, <s> Inference </s>
+30583, <s> we can handle the one numeric column </s>
+40984, <s> Aggregate by sum and mean </s>
+24826, <s> format </s>
+12222, <s> The coefficients are a bit different but we did not solved much </s>
+9410, <s> Conclusion </s>
+7589, <s> Boxplot SalePrice vs OverallQual </s>
+36275, <s> Pclass and age as they had max relation in the entire set we are going to replace missing age values with median age calculated per class </s>
+37989, <s> flowers transfer learning 3 </s>
+27419, <s> More num iterations </s>
+29157, <s> PoolQC Fill with None </s>
+6555, <s> Survived People with more than two siblings or spouse are likely survived </s>
+17690, <s> INITIALS AGE </s>
+32524, <s> Model Refining Model </s>
+10396, <s> In this project we use python package called vecstack that helps us stack our models which we have imported earlier It s actually very easy to use you can have a look at the documentation for more information </s>
+13621, <s> pclass It be relevant remmember in the movie how the first class passengers were being taken to the boat first Hell they took the dog too </s>
+10969, <s> Rescaling </s>
+31516, <s> Selecting a feature set based on ExtraTreesClassifier </s>
+12809, <s> Missing Values </s>
+11665, <s> XGBoost </s>
+24854, <s> We can quickly check the quality of the predictions </s>
+28944, <s> We can check for the best model by comparision in just one line of code </s>
+17820, <s> We predict the validation set </s>
+6518, <s> Plot categorial features with target variable </s>
+4697, <s> Normalisation </s>
+18540, <s> Some correlations coefficients are changed and other are not </s>
+26862, <s> Here I have defined two filters </s>
+7600, <s> define data for regression models </s>
+7466, <s> Making Predictions on Test data </s>
+9756, <s> HasCabin </s>
+27401, <s> Plot some sample images using the data generator </s>
+17722, <s> The values differ from what is expected as there are people who are in Pclass 1 but paid low to no fare </s>
+35075, <s> Complexity graph of Solution 6 </s>
+7798, <s> Create and Store Models in Variable </s>
+7246, <s> Explaining Instance 3 2 3 3 </s>
+30960, <s> Domain </s>
+3840, <s> fill Embarked column values </s>
+29164, <s> Utilities Drop Feature </s>
+31584, <s> let s check how the target classes are distributd among the IND continuous features </s>
+41789, <s> Digits prediction </s>
+32064, <s> Here n components decide the number of factors in the transformed data </s>
+37113, <s> Embedding the glove vectors takes 3 mins on average </s>
+27344, <s> item price </s>
+6622, <s> Ridge Regression </s>
+34404, <s> Training </s>
+11263, <s> Visualizations </s>
+12453, <s> This means that null values were the once I ve just replaced for the mode </s>
+36717, <s> Pytorch Dataset Class </s>
+38909, <s> Adversarial Validation </s>
+2, <s> LotArea is a continuous feature so it is best to use panda s qcut method to divide it into 10 parts </s>
+13297, <s> In contrast to majority voting hard voting soft voting returns the class label as argmax of the sum of predicted probabilities </s>
+40932, <s> Iterative Folds Training </s>
+21362, <s> Training on just the target label BASELINE </s>
+2290, <s> ROC AUC Score </s>
+31115, <s> Feature selection by correlation </s>
+19886, <s> Lag Features </s>
+2406, <s> Places Where NaN Means Something </s>
+9297, <s> Predicting Survival based on Random forest model span </s>
+41486, <s> Random Forest Predicting </s>
+25359, <s> Most frequent words and bigrams </s>
+39000, <s> Split the data into 60 as train data 20 as dev set and the rest 20 as test set Instead sklearn model selection train test split can be used </s>
+9363, <s> Fare feature to ordinal values based on the FareBand </s>
+2693, <s> look at the missing valeus in our data </s>
+16470, <s> We plot feature importances of 4 classifiers excluding LDA and MLP </s>
+37669, <s> Model training </s>
+33270, <s> T1 is the same period as the one found in overall histogram </s>
+33230, <s> Xception Nets </s>
+40188, <s> Metric analysis </s>
+25446, <s> Training dataset </s>
+15071, <s> Gender </s>
+20736, <s> CentralAir column </s>
+21074, <s> To solve those documents where no word is present due to exception I have tried to use a Trick by taking the help of wordcloud of some other kernel writer </s>
+35368, <s> Initialize Dataset </s>
+26369, <s> Fitting the network </s>
+41615, <s> that we have all of our data in the right format for all three modes of analysis lets look at the first one </s>
+655, <s> For a final overview before the modelling stage we have another look at the correlation matrix between all old and new features </s>
+36930, <s> Cabin </s>
+40317, <s> WordCloud visualization </s>
+3802, <s> Define a cross validation strategy </s>
+25381, <s> investigate for errors </s>
+16594, <s> Initializing Model and Training the the Model </s>
+22639, <s> Model 4 Lasso </s>
+24771, <s> Stacking algorithms </s>
+5347, <s> Diplay number with guage </s>
+38888, <s> Dataset </s>
+18510, <s> This gives us some idea with the sort of images we re dealing with </s>
+28945, <s> Lets use categorical boost as it performed best </s>
+38469, <s> Doing the same for macro features </s>
+13409, <s> Classification Error </s>
+31334, <s> I choose to fill the missing cabin columns with 0 instead of drop it becuase cabin may be associated with passenger class We have a look at a correlation matrix that includes categorical columns once we have used One Hot Encoding </s>
+29776, <s> Predict </s>
+40275, <s> Zoning Classifcation vs Sale Price </s>
+15580, <s> Evaluating classifiers </s>
+11430, <s> Would you remember KitchenAbvGr just be dense on 1 </s>
+20710, <s> Third column </s>
+34681, <s> Taking a look at what s happening inside the top categories </s>
+19362, <s> Within bivariate analysis using scatter plots </s>
+32944, <s> Plot for duplicates </s>
+40953, <s> Making the New Training Testing Sets </s>
+17747, <s> Imputing Missing Age Values </s>
+40082, <s> Fill in missing values </s>
+34438, <s> Target correction </s>
+15677, <s> Predictions based on tuned model </s>
+43271, <s> Fazendo as previs es nos dados de valida o </s>
+11807, <s> Handle missing values and categorical features </s>
+9259, <s> Predicting formatting and prep the submission file </s>
+20094, <s> With no parameter tuning decreasing trend and yearly peak are correctly predicted </s>
+22395, <s> In addition to NA there are people with very small and very high ages </s>
+40936, <s> To tune the hyper parameter for TabNet we need to make a small wrapper The fact is in TabNet PyTorch ai tabnet implementation TabNetClassifier does not have a get params method for hyperparameter estimation yet </s>
+14917, <s> Convert Title column into category variables </s>
+130, <s> we have our confusion matrix </s>
+18252, <s> Train test split </s>
+4145, <s> CCA on Titanic dataset </s>
+14354, <s> Male and female distribution in Survived Passengers </s>
+6167, <s> Name </s>
+7610, <s> Loop over Pipelines Linear </s>
+4413, <s> Check that missing values are no more </s>
+30828, <s> Getting the Libraries </s>
+6073, <s> Conclusions </s>
+43019, <s> Modelling </s>
+42952, <s> Parch Feature </s>
+35888, <s> Separate submission data and reconstruct id columns </s>
+30638, <s> Dealing with missing age </s>
+13097, <s> Survival among various categories </s>
+19456, <s> Second Hidden Layer </s>
+13374, <s> Here 0 stands for not survived and 1 stands for survived </s>
+1336, <s> we can safely drop the Name feature from training and testing datasets </s>
+22481, <s> Cluster plot </s>
+1677, <s> Peek Data Setting the context view </s>
+10547, <s> XGB Regressor </s>
+23662, <s> Rolling Average Sales vs Time per dept </s>
+12822, <s> Lets clear our vision by another graph </s>
+41469, <s> Leaving Embarked as integers implies ordering in the values which does not exist </s>
+35509, <s> Before the feature engineering part train and test data have been merged </s>
+1815, <s> Modeling the Data </s>
+9510, <s> Data Analysis </s>
+33884, <s> Bureau balance loading converting to numeric dropping </s>
+19388, <s> Finish data preprocessing </s>
+16634, <s> No of values in each category </s>
+21217, <s> we tranformed the input vectors to matrices to get images like this </s>
+20945, <s> Data visualization </s>
+13463, <s> Exploration of Age </s>
+25162, <s> Plotting Questions based on there frequency </s>
+13771, <s> For men it s better not to be alone whereas women have higher survival probability by not having family on the boat Survival probability increases for men when they have a large familly In general having too large familly e 5 members reduces the chances of survival For being a child or not its the same constat as for being alone yes for man no for female </s>
+21123, <s> look at missing values per variable starting from numeric features as they usually play decisive role in modeling </s>
+39676, <s> Check the shape of the image we chose to paint and store that shape in a variable </s>
+20940, <s> Evaluation </s>
+14671, <s> Random Forest </s>
+13730, <s> Combining SibSp and Parch to Fam </s>
+11828, <s> Log Transform on SalePrice </s>
+24593, <s> TESTING DATA CLASSIFICATION </s>
+13526, <s> Import libraries </s>
+21134, <s> Indeed our guide informs us that </s>
+34415, <s> Number of words in a tweet </s>
+11845, <s> Porch </s>
+29548, <s> Punctuation is almost the same </s>
+38561, <s> Model Functions </s>
+14895, <s> Obviously survival rate of female is much higher than male </s>
+13210, <s> finaly we can do the plot without problems </s>
+1935, <s> Heating and AC arrangements </s>
+34179, <s> CNN </s>
+30253, <s> Run cross validation to find the most appropriate nround value </s>
+15508, <s> Only one missing value </s>
+25403, <s> ACTIVATION FUNCTIONS </s>
+9600, <s> Group by </s>
+40452, <s> BldgType </s>
+27775, <s> Inspect your predictions and actual values from validation data </s>
+10770, <s> Ticket grouping </s>
+5030, <s> Interesting </s>
+22211, <s> Time keeper </s>
+24832, <s> General function </s>
+31523, <s> Attempting to get the cross validation score </s>
+13464, <s> The age distribution for survivors and deceased is actually very similar </s>
+39919, <s> Data cleaning </s>
+36481, <s> We save the private df in a CSV for further analysis it s up to you </s>
+12505, <s> Tune eta </s>
+9116, <s> Check to make sure there are no null values in our new feature neighborhoodTier </s>
+32931, <s> Find the best epoch value </s>
+27631, <s> 181108 where sold only once making up the vast majority of the data </s>
+27487, <s> y hat consists of class probabilities </s>
+15193, <s> Log Reg Xboost Svm and Others </s>
+15260, <s> Data Visualization </s>
+6507, <s> Check Missing Values </s>
+33863, <s> Fitting Xgboost model </s>
+40129, <s> Building a custom transformer to reshape the scaled images as required by the KerasClassifier </s>
+38979, <s> training loop </s>
+29469, <s> Univariate analysis of feature word share </s>
+930, <s> Optimize Random Forest Regressor </s>
+19531, <s> Creating Flat Maps </s>
+273, <s> Library and Data </s>
+2195, <s> Linear Regression </s>
+32697, <s> The competition uses the following evaluation metric </s>
+41660, <s> From section and the vizualizations in section two things are made evident </s>
+12302, <s> Model Prediction </s>
+23556, <s> Lets have a look at the year difference between the year of transaction and the year built </s>
+43284, <s> Faz um fit usando todos os dados e n o apenas os dados que tinham sido selecionados como treino </s>
+5475, <s> We now have a table of contributions Each row is a sample and every column is a field and the contribution to the predicted sale price </s>
+14073, <s> Name Title </s>
+2221, <s> Features from Outside </s>
+716, <s> Again a slight increase </s>
+31272, <s> Rolling Average Price vs Time CA </s>
+31928, <s> We ll gain insight from the model evaluation on the test dataset </s>
+27984, <s> Create a sample model to calculate which feature are more important </s>
+7274, <s> Outliers </s>
+13163, <s> CV Score </s>
+10590, <s> XGBoost with parameters </s>
+12228, <s> The model </s>
+16938, <s> With this simple tree we have a way better model than the rich woman model </s>
+41060, <s> Extract Features From Model </s>
+9018, <s> unfortunately we are not done with the null features in the Garage Columns </s>
+1287, <s> Dropping Unwanted Features 4 4 </s>
+15871, <s> we have all of training data again </s>
+6849, <s> We can replace many titles with a more common name or classify them as Rare </s>
+29403, <s> CHECK MATERIAL </s>
