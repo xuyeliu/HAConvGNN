@@ -1,19 +1,19 @@
-# Auto Code Report Generation--IBM
+# HAConvGNN: Hierarchical Attention Based Convolutional Graph NeuralNetwork for Code Documentation Generation in Jupyter Notebooks
 This repository contains the public release code for our new accepted paper: HAConvGNN: Hierarchical Attention Based Convolutional Graph NeuralNetwork for Code Documentation Generation in Jupyter Notebooks
 
 The related package requirement is in the requirement.txt file.
 
 com.test file is my ground true output file.
 
+You'd better use Cuda to runn this project.
+
 Because the dataset file and trained model file is very large, you can download it in the following website.
 
 The reproducibility package has three parts:
 1. the code found in this repository
-2. the fully processed data (as a pkl file) can be downloaded [HERE](https://icpc2020.s3.us-east-2.amazonaws.com/dataset.pkl)
+2. the fully processed data (as a pkl file) can be downloaded [HERE](https://drive.google.com/file/d/11CS-S2O32ARA-Y0JjMTUVAb11CcPPLVc/view?usp=sharing)
 
-This code uses Pytorch v1.5.0 and Pytorch_geometric framework
-
-Pytorch_geometric framework can be downloaded [HERE](https://github.com/khuangaf/PyTorch-Geometric-YooChoose)
+This code uses Pytorch v1.5.0
 
 ## Running the code and models
 
