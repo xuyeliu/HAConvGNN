@@ -217,7 +217,7 @@ if __name__ == '__main__':
                         ("val_acc", val_acc.avg, epoch))
             torch.save({'epoch': epoch,'model_state_dict': net.state_dict(),
                         'optimizer_state_dict': optimizer.state_dict(),'loss': loss}, 
-                        "./modelout/" + modeltype + "_saved_model_withseqatt_nohatt_nounif.h5")
+                        "./modelout/" +"HAConvGNN_saved_model.h5")
             print("Improved from %.4f to %.4f" % (stats['best_valid'], val_acc.avg))
             stats['best_valid'] = val_acc.avg
             stats['no_improvement'] = 0

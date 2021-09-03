@@ -128,7 +128,7 @@ if __name__ == '__main__':
     print('len', len(seqdata['ctest']))
     print('allfids', len(allfids))
     model, device = create_model(config)
-    checkpoint = torch.load("./modelout/codegnngru_saved_model1.h5")
+    checkpoint = torch.load("./modelout/HAConvGNN_saved_model.h5")
     model.load_state_dict(checkpoint['model_state_dict'])
     optimizer = torch.optim.Adamax(model.parameters(), lr = 1e-3)
     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
