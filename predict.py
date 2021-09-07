@@ -76,7 +76,7 @@ def gen_pred(model, data, device, comstok, comlen, batchsize, config, fid_set, s
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='')
-    parser.add_argument('--model', dest='model', type=str, default=None)
+    parser.add_argument('model', type=str, default=None)
     parser.add_argument('--gpu', dest='gpu', type=str, default='')
     parser.add_argument('--data', dest='dataprep', type=str, default='../data')
     parser.add_argument('--outdir', dest='outdir', type=str, default='modelout/')
@@ -128,7 +128,7 @@ if __name__ == '__main__':
     print('len', len(seqdata['ctest']))
     print('allfids', len(allfids))
     model, device = create_model(config)
-    checkpoint = torch.load("./modelout/HAConvGNN_saved_model.h5")
+    checkpoint = torch.load(modelfile)
     model.load_state_dict(checkpoint['model_state_dict'])
     optimizer = torch.optim.Adamax(model.parameters(), lr = 1e-3)
     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])
