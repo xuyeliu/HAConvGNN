@@ -16,9 +16,19 @@ The reproducibility package has three parts:
 
 This code uses Pytorch v1.5.0
 
+## notebookCDG Dataset
+
+Inspired by [Wang et al. 2021](https://dl.acm.org/doi/abs/10.1145/3411763.3451617), we decided to utilize the top-voted and well-documented Kaggle notebooks to construct the notebookCDGdataset 
+
+We collected the top 10% highly-voted notebooks from the top 20 popular competitions on Kaggle (e.g. Titanic). We checked the data policy of each of the 20 competitions, none of them has copyright issues. We also contacted the Kaggle administrators to make sure our data collection complies with the platform’s policy.  
+
+In total, we collected 3,944 notebooks as raw data. After data preprocessing, the final dataset contains 2,476 notebooks out of the 3,944 notebooks from the raw data. It has 28,625 code–documentation pairs. The overall code-to-markdown ratio is 2.2195
+
+![data](https://user-images.githubusercontent.com/3362714/132431560-7f68606f-d0a1-4d9b-b46e-8537fd65c123.png)
+
 ## Running the code and models
 
-In my code, I have HAConvGNN model
+In my code, I have HAConvGNN model.
 
 To run *prediction* with the trained models from the paper, download the three parts of the reproducibility package and run predict.py. Predict.py takes the path to the model file as a positional argument and will output the prediction file to ./modelout/predictions.
 
