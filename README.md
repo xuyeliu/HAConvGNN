@@ -11,8 +11,8 @@ Because the dataset file and trained model file is very large, you can download 
 
 The reproducibility package has three parts:
 1. the code found in this repository
-2. the fully processed data (as a pkl file) can be downloaded [HERE](https://drive.google.com/file/d/11CS-S2O32ARA-Y0JjMTUVAb11CcPPLVc/view?usp=sharing)
-3. the model file can be downloaded [HERE](https://www.dropbox.com/s/yp3uugog0ux3k2o/HAConvGNN_saved_model.h5?dl=0)
+2. the fully processed data (as a pkl file) can be downloaded [HERE](https://ibm.biz/Bdfpk6)
+3. the model file can be downloaded [HERE](https://ibm.biz/BdfpkU)
 
 This code uses Pytorch v1.5.0
 
