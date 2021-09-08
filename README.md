@@ -20,7 +20,7 @@ This code uses Pytorch v1.5.0
 
 In my code, I have HAConvGNN model
 
-To run the trained models from the paper download the three parts of the reproducibility package and run predict.py. Predict.py takes the path to the model file as a positional argument and will output the prediction file to ./modelout/predictions.
+To run *prediction* with the trained models from the paper, download the three parts of the reproducibility package and run predict.py. Predict.py takes the path to the model file as a positional argument and will output the prediction file to ./modelout/predictions.
 
 `python3 predict.py {path to model} --gpu 0 --data {path to data download}`
 
@@ -28,7 +28,7 @@ For example:
 
 `python3 predict.py ./modelout/HAConvGNN.h5 --gpu 0 --data ./final_data`
 
-To train a new model run train.py with the modeltype and gpu options set.
+To *train* a new model run train.py with the modeltype and gpu options set.
 
 `python3 train.py --gpu 0 --data ./final_data`
 
@@ -53,7 +53,7 @@ To train a new model run train.py with the modeltype and gpu options set.
 ```
 @misc{liu2021haconvgnn,
       title={HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks}, 
-      author={Xuye Liu and Dakuo Wang and April Wang and Lingfei Wu},
+      author={Xuye Liu and Dakuo Wang and April Wang and Yufang Hou and Lingfei Wu},
       year={2021},
       eprint={2104.01002},
       archivePrefix={arXiv},
