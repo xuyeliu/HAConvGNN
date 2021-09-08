@@ -37,7 +37,7 @@ To *train* a new model run train.py with the modeltype and gpu options set.
 ![avatar](/img/model.png)
 
 ## Result
-| Models                       | ROUGE-1 |       |       | ROUGE-2 |      |      | ROUGE-L |       |       |
+| Models                       | ROUGE-1                 | ROUGE-2               | ROUGE-L                 |
 |------------------------------|---------|-------|-------|---------|------|------|---------|-------|-------|
 |                              | P       | R     | F1    | P       | R    | F1   | P       | R     | F1    |
 | Baselines   |
