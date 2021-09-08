@@ -60,6 +60,9 @@ To *train* a new model run train.py with the modeltype and gpu options set.
 | HAConvGNN <br> without low-level attention <br> without high-level attention <br> with uniform attention      | 11.39   | 7.73  | 7.82  | 1.58    | 1.06 | 1.08 | 13.13   | 9.47  | 9.82  |
 
 ## Bibliographic Citations
+
+Our work is published at [EMNLP'21 Finding](https://arxiv.org/abs/2104.01002). You can cite: 
+
 ```
 @misc{liu2021haconvgnn,
       title={HAConvGNN: Hierarchical Attention Based Convolutional Graph Neural Network for Code Documentation Generation in Jupyter Notebooks}, 
