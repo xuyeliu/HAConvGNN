@@ -12,7 +12,7 @@ Because the dataset file and trained model file is very large, you can download 
 The reproducibility package has three parts:
 1. the code found in this repository
 2. the fully processed data (as a pkl file) can be downloaded [HERE](https://ibm.biz/Bdfpk6)
-3. the model file can be downloaded [HERE](https://ibm.biz/BdfpkU)
+3. the model file can be downloaded [HERE](https://ibm.biz/BdfpkU)(If you want to load this model with CPU, you should add ```map_location=torch.device('cpu')``` when loading the model file)
 
 This code uses Pytorch v1.5.0
 

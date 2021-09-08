@@ -53,10 +53,10 @@ def gen_pred(model, data, device, comstok, comlen, batchsize, config, fid_set, s
     coms = coms.type(torch.LongTensor)
     wsmlnodes = wsmlnodes.type(torch.LongTensor)
     wedge_1 = wedge_1.type(torch.LongTensor)
-    # tdats = tdats.cuda
-    # coms = coms.cuda
-    # wsmlnodes = wsmlnodes.cuda
-    # wedge_1 = wedge_1.cuda
+    tdats = tdats.to(device)
+    coms = coms.to(device)
+    wsmlnodes = wsmlnodes.to(device)
+    wedge_1 = wedge_1.to(device)
     for i in range(1, comlen):
         if i == 1:
             pass
