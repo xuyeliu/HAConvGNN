@@ -38,6 +38,8 @@ For example:
 
 `python3 predict.py ./modelout/HAConvGNN.h5 --gpu 0 --data ./final_data`
 
+As a reference, running the prediction on one Tesla T4 GPU takes about 1 hour.
+
 To *train* a new model run train.py with the modeltype and gpu options set.
 
 `python3 train.py --gpu 0 --data ./final_data`
