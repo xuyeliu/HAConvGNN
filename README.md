@@ -9,10 +9,11 @@ You'd better use Cuda to run this project.
 
 Because the dataset file and trained model file is very large, you can download it in the following website.
 
-The reproducibility package has three parts:
+The reproducibility package has four parts:
 1. the code found in this repository
 2. the fully processed data (as a pkl file) can be downloaded [HERE](https://ibm.biz/Bdfpk6)
 3. the model file can be downloaded [HERE](https://ibm.biz/BdfpkU)(If you want to load this model with CPU, you should add ```map_location=torch.device('cpu')``` when loading the model file)
+4. The raw dataset of this project can be found [HERE](https://drive.google.com/file/d/1P7VmrJg06NnMwGGTNht-dtH-4zJMSG3V/view?usp=sharing). comment.json is the target documentation file. relatedcode is a dictionary storing corresponding code list which will be used in the HAConvGNN model and the function.json is the code sequence which is joined by '\n' from the code list. Kaggle3741 has all the notebooks we crawled from the Kaggle. 
 
 This code uses Pytorch v1.5.0
 
